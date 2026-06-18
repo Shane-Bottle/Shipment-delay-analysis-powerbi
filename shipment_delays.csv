@@ -1,0 +1,801 @@
+ShipmentID,ShipmentDate,Origin,Destination,Commodity,PlannedDeparture,ActualDeparture,DelayMinutes,DelayReason,Handler,Weight_kg,Resolved
+SHP10000,2024-05-01,DXB,NRT,General Cargo,04:30,04:30,45,Equipment Fault,dnata,7374.1,No
+SHP10001,2024-12-24,DXB,HKG,Courier,02:00,08:00,397,Equipment Fault,Menzies,5115.9,No
+SHP10002,2024-02-08,DXB,BOM,Pharmaceuticals,13:15,13:15,0,No Delay,Swissport,2124.9,Yes
+SHP10003,2024-07-20,DXB,CGO,Dangerous Goods,10:30,10:30,0,No Delay,Swissport,1907.2,Yes
+SHP10004,2024-03-10,DXB,BOM,Dangerous Goods,05:45,06:45,69,Documentation Issue,Swissport,3281.8,Yes
+SHP10005,2024-04-16,DXB,FRA,Pharmaceuticals,03:00,05:00,150,Weight & Balance,Swissport,6619.8,Yes
+SHP10006,2024-04-20,DXB,HKG,Dangerous Goods,07:30,13:30,379,Documentation Issue,WFS,439.2,Yes
+SHP10007,2024-05-13,DXB,ORD,General Cargo,14:15,17:15,222,Late Arrival,JAS,860.2,Yes
+SHP10008,2024-03-03,DXB,LHR,Pharmaceuticals,07:15,13:15,414,Late Arrival,JAS,3009.3,Yes
+SHP10009,2024-10-25,DXB,BOM,General Cargo,02:00,09:00,431,Weather,Menzies,7224.8,No
+SHP10010,2024-03-06,DXB,JFK,General Cargo,10:00,10:00,0,No Delay,JAS,452.6,No
+SHP10011,2024-07-21,DXB,FRA,Perishables,13:15,19:15,364,Late Arrival,Menzies,7271.0,Yes
+SHP10012,2024-05-23,DXB,FRA,Valuables,01:15,01:15,0,No Delay,Swissport,4016.2,No
+SHP10013,2024-02-01,DXB,JFK,Valuables,13:15,14:15,85,Weather,WFS,2030.7,Yes
+SHP10014,2024-07-14,DXB,CGO,Courier,15:30,19:30,293,Weight & Balance,WFS,2606.8,Yes
+SHP10015,2024-04-02,DXB,LHR,General Cargo,00:30,02:30,127,Weight & Balance,JAS,4259.0,Yes
+SHP10016,2024-03-22,DXB,JFK,Live Animals,08:00,10:00,138,Weather,Menzies,4626.8,No
+SHP10017,2024-06-30,DXB,ORD,Courier,10:30,15:30,318,Documentation Issue,dnata,5642.5,Yes
+SHP10018,2024-10-17,DXB,BOM,Pharmaceuticals,15:30,16:30,111,Documentation Issue,JAS,351.8,Yes
+SHP10019,2024-04-29,DXB,BOM,Perishables,15:00,19:00,284,Security Hold,WFS,1651.6,Yes
+SHP10020,2024-06-23,DXB,CGO,General Cargo,10:00,17:00,425,Documentation Issue,Menzies,4713.5,Yes
+SHP10021,2024-02-26,DXB,CDG,Valuables,02:30,02:30,0,No Delay,JAS,4708.8,Yes
+SHP10022,2024-06-03,DXB,HKG,Live Animals,23:45,00:45,95,Documentation Issue,JAS,5211.0,Yes
+SHP10023,2024-12-28,DXB,CDG,Pharmaceuticals,19:30,19:30,0,No Delay,WFS,6524.9,No
+SHP10024,2024-06-06,DXB,CGO,Valuables,04:15,04:15,0,No Delay,dnata,7592.9,No
+SHP10025,2024-10-17,DXB,LHR,Valuables,19:15,21:15,177,Security Hold,WFS,877.7,No
+SHP10026,2024-03-13,DXB,HKG,Perishables,07:30,07:30,0,No Delay,Menzies,5107.7,Yes
+SHP10027,2024-12-28,DXB,DEL,General Cargo,10:45,10:45,0,No Delay,Swissport,1717.0,Yes
+SHP10028,2024-06-28,DXB,SYD,General Cargo,23:00,23:00,0,No Delay,JAS,3533.9,No
+SHP10029,2024-03-26,DXB,NRT,General Cargo,11:45,14:45,208,Equipment Fault,JAS,6320.4,Yes
+SHP10030,2024-03-24,DXB,FRA,General Cargo,01:30,08:30,448,Late Arrival,Swissport,2126.0,Yes
+SHP10031,2024-02-07,DXB,HKG,Courier,05:00,08:00,207,Documentation Issue,dnata,2736.7,No
+SHP10032,2024-12-26,DXB,LHR,Pharmaceuticals,05:45,10:45,349,Customs Delay,dnata,855.0,Yes
+SHP10033,2024-04-07,DXB,NRT,Valuables,23:30,23:30,0,No Delay,Swissport,2414.3,Yes
+SHP10034,2024-01-26,DXB,NRT,General Cargo,15:15,15:15,0,No Delay,Swissport,80.3,Yes
+SHP10035,2024-05-30,DXB,DEL,General Cargo,15:15,15:15,0,No Delay,dnata,1695.3,Yes
+SHP10036,2024-02-11,DXB,FRA,Dangerous Goods,09:45,09:45,0,No Delay,JAS,7164.3,Yes
+SHP10037,2024-02-16,DXB,DEL,Dangerous Goods,05:30,05:30,0,No Delay,Swissport,1533.3,Yes
+SHP10038,2024-05-14,DXB,FRA,Pharmaceuticals,08:00,10:00,130,Equipment Fault,dnata,731.4,Yes
+SHP10039,2024-10-04,DXB,NRT,Courier,18:15,18:15,0,No Delay,dnata,6734.3,No
+SHP10040,2024-10-01,DXB,DEL,Dangerous Goods,15:15,15:15,0,No Delay,Swissport,677.7,Yes
+SHP10041,2024-09-14,DXB,BOM,General Cargo,18:15,18:15,0,No Delay,JAS,1424.4,Yes
+SHP10042,2024-04-18,DXB,SIN,Pharmaceuticals,02:45,05:45,231,Documentation Issue,Menzies,6681.2,Yes
+SHP10043,2024-06-12,DXB,CGO,Dangerous Goods,02:00,02:00,0,No Delay,WFS,3209.0,Yes
+SHP10044,2024-05-21,DXB,CDG,General Cargo,00:45,07:45,462,Equipment Fault,JAS,1239.7,Yes
+SHP10045,2024-02-24,DXB,BOM,Dangerous Goods,09:30,09:30,0,No Delay,Swissport,3095.2,No
+SHP10046,2024-10-19,DXB,BOM,Pharmaceuticals,08:45,09:45,103,Equipment Fault,WFS,4888.8,No
+SHP10047,2024-01-20,DXB,NRT,General Cargo,10:15,10:15,0,No Delay,JAS,7370.6,Yes
+SHP10048,2024-01-11,DXB,HKG,Perishables,09:30,09:30,0,No Delay,JAS,6873.0,Yes
+SHP10049,2024-04-26,DXB,ORD,Perishables,14:30,20:30,395,Weight & Balance,JAS,4859.6,Yes
+SHP10050,2024-04-06,DXB,FRA,Live Animals,13:45,20:45,436,Security Hold,WFS,6944.2,Yes
+SHP10051,2024-09-20,DXB,ORD,Pharmaceuticals,16:45,22:45,378,Late Arrival,WFS,7040.7,Yes
+SHP10052,2024-03-29,DXB,SIN,Pharmaceuticals,06:00,06:00,0,No Delay,dnata,3678.8,Yes
+SHP10053,2024-12-26,DXB,SIN,Valuables,14:45,21:45,436,Weather,dnata,5465.3,Yes
+SHP10054,2024-07-09,DXB,FRA,Courier,05:45,05:45,0,No Delay,WFS,2830.6,Yes
+SHP10055,2024-05-12,DXB,CGO,General Cargo,02:30,02:30,0,No Delay,JAS,444.7,Yes
+SHP10056,2024-04-23,DXB,DEL,Courier,08:45,10:45,120,Security Hold,dnata,6923.8,Yes
+SHP10057,2024-08-30,DXB,ORD,Pharmaceuticals,19:00,19:00,0,No Delay,Swissport,4886.3,Yes
+SHP10058,2024-12-30,DXB,CGO,Live Animals,13:45,13:45,0,No Delay,Swissport,3699.0,Yes
+SHP10059,2024-08-26,DXB,SYD,Courier,19:45,19:45,0,No Delay,dnata,108.4,Yes
+SHP10060,2024-10-14,DXB,DEL,Valuables,09:30,09:30,0,No Delay,dnata,3879.8,Yes
+SHP10061,2024-05-21,DXB,DEL,Pharmaceuticals,08:30,10:30,156,Weight & Balance,Menzies,4162.5,Yes
+SHP10062,2024-01-30,DXB,BOM,Valuables,21:15,23:15,178,Customs Delay,dnata,5260.4,Yes
+SHP10063,2024-05-12,DXB,NRT,Perishables,01:15,07:15,392,Customs Delay,Menzies,5506.2,No
+SHP10064,2024-12-09,DXB,HKG,Perishables,05:15,12:15,447,Equipment Fault,dnata,3792.7,Yes
+SHP10065,2024-10-13,DXB,ORD,Pharmaceuticals,10:00,10:00,0,No Delay,Swissport,1825.5,Yes
+SHP10066,2024-08-03,DXB,HKG,Live Animals,09:45,14:45,314,Customs Delay,dnata,3790.8,Yes
+SHP10067,2024-08-29,DXB,SIN,Courier,21:45,04:45,459,Equipment Fault,Swissport,3334.2,Yes
+SHP10068,2024-03-11,DXB,SIN,Perishables,14:15,19:15,306,Weight & Balance,Menzies,6242.6,No
+SHP10069,2024-06-19,DXB,DEL,General Cargo,10:00,10:00,0,No Delay,JAS,2224.5,Yes
+SHP10070,2024-10-22,DXB,ORD,Courier,02:15,08:15,405,Equipment Fault,JAS,5086.2,No
+SHP10071,2024-08-07,DXB,FRA,Valuables,17:15,17:15,34,Customs Delay,Swissport,7603.0,Yes
+SHP10072,2024-09-28,DXB,SIN,Pharmaceuticals,20:15,20:15,17,Late Arrival,Swissport,2531.1,Yes
+SHP10073,2024-07-15,DXB,CDG,Live Animals,05:00,05:00,0,No Delay,dnata,2420.7,Yes
+SHP10074,2024-08-21,DXB,CGO,Dangerous Goods,16:30,16:30,0,No Delay,Menzies,2774.7,No
+SHP10075,2024-07-02,DXB,SIN,Pharmaceuticals,12:00,19:00,479,Documentation Issue,Menzies,5831.0,Yes
+SHP10076,2024-04-18,DXB,CGO,Perishables,05:00,09:00,273,Late Arrival,dnata,3032.8,Yes
+SHP10077,2024-09-30,DXB,BOM,Valuables,21:00,21:00,39,Late Arrival,dnata,433.5,Yes
+SHP10078,2024-08-01,DXB,FRA,Valuables,08:45,12:45,295,Customs Delay,Menzies,1683.7,Yes
+SHP10079,2024-06-03,DXB,NRT,Courier,21:30,21:30,0,No Delay,WFS,5620.8,No
+SHP10080,2024-02-23,DXB,CDG,General Cargo,03:30,03:30,0,No Delay,dnata,4007.0,Yes
+SHP10081,2024-05-14,DXB,CDG,Perishables,11:45,11:45,0,No Delay,Menzies,363.3,No
+SHP10082,2024-04-16,DXB,CGO,General Cargo,10:15,10:15,0,No Delay,dnata,5389.5,Yes
+SHP10083,2024-10-20,DXB,DEL,Valuables,16:00,17:00,61,Equipment Fault,dnata,7243.0,Yes
+SHP10084,2024-08-21,DXB,SYD,Live Animals,03:15,03:15,40,Weather,dnata,6825.4,Yes
+SHP10085,2024-12-12,DXB,HKG,General Cargo,03:00,04:00,74,Customs Delay,Menzies,5323.7,Yes
+SHP10086,2024-06-17,DXB,HKG,Valuables,19:30,19:30,0,No Delay,dnata,3012.3,Yes
+SHP10087,2024-04-03,DXB,JFK,Valuables,08:45,12:45,248,Customs Delay,JAS,6409.2,Yes
+SHP10088,2024-02-27,DXB,ORD,General Cargo,01:15,01:15,0,No Delay,JAS,7294.3,No
+SHP10089,2024-10-18,DXB,DEL,Courier,12:30,17:30,327,Customs Delay,dnata,6907.5,Yes
+SHP10090,2024-09-04,DXB,FRA,General Cargo,14:00,17:00,225,Documentation Issue,Swissport,5257.0,Yes
+SHP10091,2024-12-26,DXB,DEL,Valuables,23:15,23:15,0,No Delay,Swissport,4176.8,Yes
+SHP10092,2024-08-09,DXB,DEL,Valuables,15:30,15:30,0,No Delay,JAS,1231.8,Yes
+SHP10093,2024-01-06,DXB,DEL,Live Animals,16:45,16:45,0,No Delay,JAS,6961.9,Yes
+SHP10094,2024-09-08,DXB,HKG,Courier,01:15,03:15,157,Security Hold,JAS,3256.1,Yes
+SHP10095,2024-02-10,DXB,FRA,Live Animals,14:00,19:00,308,Customs Delay,JAS,3604.2,Yes
+SHP10096,2024-09-11,DXB,CGO,Dangerous Goods,03:45,03:45,0,No Delay,dnata,4479.2,Yes
+SHP10097,2024-02-16,DXB,BOM,Courier,20:30,20:30,0,No Delay,WFS,1694.5,No
+SHP10098,2024-06-23,DXB,HKG,Perishables,07:45,07:45,0,No Delay,WFS,6151.0,No
+SHP10099,2024-12-02,DXB,HKG,Live Animals,03:00,03:00,0,No Delay,Menzies,67.5,Yes
+SHP10100,2024-11-20,DXB,SYD,General Cargo,11:00,11:00,0,No Delay,Menzies,3964.8,No
+SHP10101,2024-02-24,DXB,SYD,Live Animals,06:00,06:00,0,No Delay,JAS,1763.9,Yes
+SHP10102,2024-06-22,DXB,JFK,Live Animals,01:00,01:00,0,No Delay,JAS,3686.2,Yes
+SHP10103,2024-09-12,DXB,LHR,Live Animals,01:45,01:45,0,No Delay,WFS,3889.3,Yes
+SHP10104,2024-12-20,DXB,BOM,Dangerous Goods,04:00,11:00,432,Documentation Issue,WFS,4869.0,Yes
+SHP10105,2024-09-15,DXB,NRT,Perishables,22:15,03:15,326,Customs Delay,JAS,7710.6,Yes
+SHP10106,2024-08-19,DXB,ORD,Live Animals,22:30,03:30,323,Documentation Issue,WFS,6892.6,Yes
+SHP10107,2024-04-12,DXB,SIN,Valuables,09:30,09:30,0,No Delay,Menzies,7851.6,Yes
+SHP10108,2024-09-14,DXB,CDG,Live Animals,10:00,10:00,0,No Delay,Swissport,4520.1,No
+SHP10109,2024-12-11,DXB,CGO,Live Animals,17:30,17:30,0,No Delay,JAS,6476.0,Yes
+SHP10110,2024-01-13,DXB,NRT,Perishables,01:15,06:15,358,Documentation Issue,Menzies,7869.1,Yes
+SHP10111,2024-03-15,DXB,LHR,Live Animals,09:15,09:15,0,No Delay,WFS,306.8,No
+SHP10112,2024-02-22,DXB,BOM,Valuables,23:15,23:15,0,No Delay,WFS,3141.6,Yes
+SHP10113,2024-12-20,DXB,DEL,Live Animals,12:45,15:45,210,Late Arrival,Swissport,7728.4,Yes
+SHP10114,2024-01-07,DXB,CGO,Valuables,14:15,19:15,332,Weather,Swissport,6053.1,Yes
+SHP10115,2024-04-09,DXB,SYD,Pharmaceuticals,02:15,08:15,364,Customs Delay,WFS,998.9,Yes
+SHP10116,2024-08-07,DXB,SYD,Courier,04:15,04:15,0,No Delay,Swissport,94.9,No
+SHP10117,2024-12-29,DXB,ORD,Live Animals,19:00,22:00,180,Late Arrival,WFS,6753.0,Yes
+SHP10118,2024-09-08,DXB,BOM,Courier,02:30,02:30,0,No Delay,Menzies,7658.1,Yes
+SHP10119,2024-09-15,DXB,ORD,Perishables,12:00,16:00,289,Customs Delay,Menzies,7073.0,Yes
+SHP10120,2024-06-18,DXB,HKG,Courier,19:45,01:45,400,Weight & Balance,dnata,962.0,Yes
+SHP10121,2024-08-16,DXB,SIN,General Cargo,19:15,19:15,0,No Delay,Swissport,3081.9,Yes
+SHP10122,2024-07-16,DXB,SYD,Courier,09:00,09:00,0,No Delay,Swissport,4138.8,No
+SHP10123,2024-09-06,DXB,LHR,Courier,06:30,11:30,348,Weight & Balance,dnata,7588.3,Yes
+SHP10124,2024-10-02,DXB,CDG,Live Animals,06:15,06:15,48,Late Arrival,JAS,6693.5,Yes
+SHP10125,2024-10-02,DXB,CGO,Valuables,23:45,23:45,0,No Delay,dnata,5987.8,Yes
+SHP10126,2024-01-13,DXB,FRA,General Cargo,01:00,01:00,0,No Delay,dnata,1465.0,Yes
+SHP10127,2024-10-12,DXB,JFK,Dangerous Goods,07:30,07:30,0,No Delay,JAS,3636.4,No
+SHP10128,2024-08-09,DXB,HKG,Valuables,03:00,08:00,359,Late Arrival,WFS,552.7,Yes
+SHP10129,2024-12-24,DXB,JFK,Live Animals,03:30,07:30,272,Weight & Balance,Swissport,4872.2,Yes
+SHP10130,2024-08-12,DXB,NRT,Pharmaceuticals,00:45,05:45,353,Customs Delay,WFS,1797.9,No
+SHP10131,2024-10-06,DXB,SYD,Valuables,04:30,04:30,0,No Delay,Swissport,7661.3,Yes
+SHP10132,2024-10-10,DXB,CDG,Courier,00:45,00:45,36,Documentation Issue,WFS,7578.5,Yes
+SHP10133,2024-04-17,DXB,CGO,Pharmaceuticals,23:30,23:30,0,No Delay,JAS,7249.7,Yes
+SHP10134,2024-03-23,DXB,ORD,General Cargo,08:15,15:15,442,Security Hold,Menzies,5384.3,Yes
+SHP10135,2024-10-08,DXB,FRA,Valuables,02:30,02:30,0,No Delay,dnata,2043.0,Yes
+SHP10136,2024-10-24,DXB,FRA,Valuables,11:15,11:15,0,No Delay,Menzies,845.4,Yes
+SHP10137,2024-04-09,DXB,HKG,Valuables,19:30,22:30,183,Equipment Fault,WFS,1261.5,Yes
+SHP10138,2024-06-10,DXB,NRT,Valuables,07:15,09:15,175,Documentation Issue,JAS,2249.6,Yes
+SHP10139,2024-03-09,DXB,DEL,Dangerous Goods,15:45,15:45,0,No Delay,Swissport,6209.4,No
+SHP10140,2024-10-09,DXB,JFK,Live Animals,02:30,07:30,325,Documentation Issue,Menzies,7135.8,Yes
+SHP10141,2024-05-14,DXB,CGO,General Cargo,02:00,02:00,0,No Delay,WFS,5071.4,No
+SHP10142,2024-10-29,DXB,SIN,Courier,17:30,17:30,0,No Delay,WFS,3803.2,Yes
+SHP10143,2024-07-06,DXB,NRT,Pharmaceuticals,18:30,00:30,410,Security Hold,JAS,4033.9,Yes
+SHP10144,2024-07-22,DXB,HKG,Live Animals,07:15,12:15,354,Equipment Fault,WFS,1165.9,Yes
+SHP10145,2024-04-01,DXB,BOM,Valuables,21:15,21:15,0,No Delay,JAS,7516.4,Yes
+SHP10146,2024-04-22,DXB,FRA,General Cargo,11:15,13:15,150,Security Hold,Menzies,4167.2,Yes
+SHP10147,2024-07-17,DXB,FRA,Valuables,01:00,01:00,0,No Delay,Swissport,870.6,Yes
+SHP10148,2024-05-14,DXB,BOM,Valuables,05:45,05:45,0,No Delay,JAS,2954.1,Yes
+SHP10149,2024-09-21,DXB,SYD,Perishables,07:45,14:45,479,Customs Delay,Swissport,3920.5,No
+SHP10150,2024-11-05,DXB,LHR,Pharmaceuticals,14:15,15:15,86,Equipment Fault,dnata,4140.6,Yes
+SHP10151,2024-04-18,DXB,ORD,Valuables,19:00,22:00,200,Security Hold,Menzies,3346.2,Yes
+SHP10152,2024-02-28,DXB,FRA,Courier,15:15,15:15,0,No Delay,Menzies,5195.7,No
+SHP10153,2024-01-12,DXB,SIN,Pharmaceuticals,18:15,23:15,308,Late Arrival,WFS,361.6,Yes
+SHP10154,2024-01-29,DXB,ORD,Courier,16:45,17:45,107,Weather,WFS,5119.1,Yes
+SHP10155,2024-02-13,DXB,SIN,Pharmaceuticals,15:15,19:15,256,Customs Delay,JAS,4826.7,Yes
+SHP10156,2024-11-15,DXB,DEL,Dangerous Goods,23:30,00:30,100,Equipment Fault,WFS,4745.2,Yes
+SHP10157,2024-07-12,DXB,NRT,Live Animals,06:45,06:45,23,Documentation Issue,Menzies,4863.8,Yes
+SHP10158,2024-08-31,DXB,BOM,General Cargo,17:00,17:00,0,No Delay,JAS,5292.2,Yes
+SHP10159,2024-12-13,DXB,DEL,Valuables,11:00,14:00,230,Customs Delay,WFS,3460.2,No
+SHP10160,2024-07-14,DXB,HKG,Dangerous Goods,23:00,23:00,0,No Delay,Menzies,2073.4,Yes
+SHP10161,2024-02-12,DXB,SYD,Perishables,17:45,17:45,0,No Delay,Menzies,93.5,Yes
+SHP10162,2024-10-22,DXB,CDG,Valuables,12:15,12:15,18,Documentation Issue,Swissport,3300.3,Yes
+SHP10163,2024-03-20,DXB,NRT,Live Animals,08:30,08:30,0,No Delay,WFS,3417.3,Yes
+SHP10164,2024-11-09,DXB,SYD,Dangerous Goods,12:15,12:15,0,No Delay,WFS,6281.1,No
+SHP10165,2024-04-01,DXB,HKG,Perishables,15:30,15:30,0,No Delay,WFS,2787.6,No
+SHP10166,2024-03-11,DXB,DEL,General Cargo,14:15,16:15,132,Documentation Issue,Menzies,4091.3,Yes
+SHP10167,2024-10-08,DXB,BOM,Pharmaceuticals,22:00,22:00,0,No Delay,JAS,7718.3,Yes
+SHP10168,2024-02-16,DXB,ORD,General Cargo,13:00,18:00,322,Equipment Fault,Swissport,1813.1,Yes
+SHP10169,2024-11-07,DXB,LHR,Valuables,12:30,12:30,0,No Delay,WFS,506.8,Yes
+SHP10170,2024-11-23,DXB,FRA,Pharmaceuticals,21:30,22:30,118,Customs Delay,dnata,6282.5,Yes
+SHP10171,2024-11-10,DXB,ORD,Valuables,11:15,11:15,0,No Delay,dnata,7806.4,Yes
+SHP10172,2024-05-21,DXB,NRT,Courier,12:15,15:15,217,Weight & Balance,dnata,5908.6,Yes
+SHP10173,2024-02-16,DXB,CDG,Perishables,17:30,00:30,439,Weather,Swissport,1849.0,Yes
+SHP10174,2024-08-20,DXB,NRT,Dangerous Goods,08:15,08:15,0,No Delay,WFS,896.4,Yes
+SHP10175,2024-09-14,DXB,SYD,Courier,16:30,17:30,74,Weight & Balance,WFS,2038.6,No
+SHP10176,2024-07-12,DXB,BOM,Valuables,10:45,12:45,139,Equipment Fault,JAS,7177.4,Yes
+SHP10177,2024-09-03,DXB,JFK,Valuables,20:15,23:15,210,Weather,Menzies,6411.3,No
+SHP10178,2024-06-29,DXB,CDG,Pharmaceuticals,22:30,22:30,0,No Delay,Swissport,789.4,Yes
+SHP10179,2024-02-08,DXB,CDG,Perishables,15:30,15:30,0,No Delay,Menzies,7159.8,Yes
+SHP10180,2024-04-03,DXB,CGO,Valuables,06:45,06:45,0,No Delay,Menzies,1917.1,Yes
+SHP10181,2024-05-15,DXB,SIN,Pharmaceuticals,07:30,14:30,442,Security Hold,dnata,1003.0,Yes
+SHP10182,2024-12-12,DXB,DEL,Live Animals,17:00,17:00,18,Equipment Fault,JAS,3001.0,Yes
+SHP10183,2024-09-09,DXB,BOM,Live Animals,15:15,15:15,0,No Delay,WFS,2278.1,Yes
+SHP10184,2024-10-22,DXB,ORD,Courier,13:45,20:45,424,Late Arrival,dnata,4044.7,No
+SHP10185,2024-12-17,DXB,ORD,Perishables,22:45,23:45,76,Equipment Fault,dnata,144.0,Yes
+SHP10186,2024-07-13,DXB,BOM,Pharmaceuticals,19:30,22:30,200,Documentation Issue,WFS,2139.6,Yes
+SHP10187,2024-08-29,DXB,BOM,Pharmaceuticals,15:45,16:45,109,Weight & Balance,JAS,5620.7,Yes
+SHP10188,2024-07-05,DXB,NRT,Courier,18:15,19:15,107,Weather,Menzies,6522.8,Yes
+SHP10189,2024-04-30,DXB,CDG,Live Animals,06:15,09:15,210,Customs Delay,Menzies,3810.2,Yes
+SHP10190,2024-03-31,DXB,NRT,Live Animals,20:30,03:30,472,Equipment Fault,JAS,2435.3,Yes
+SHP10191,2024-07-22,DXB,JFK,Live Animals,01:15,01:15,0,No Delay,Swissport,3838.5,Yes
+SHP10192,2024-08-18,DXB,CGO,Perishables,11:30,14:30,199,Weight & Balance,dnata,3323.5,Yes
+SHP10193,2024-12-13,DXB,BOM,Live Animals,20:15,01:15,309,Security Hold,Swissport,2873.1,No
+SHP10194,2024-08-16,DXB,JFK,Live Animals,14:15,16:15,161,Customs Delay,Menzies,5142.6,Yes
+SHP10195,2024-08-03,DXB,DEL,General Cargo,12:00,12:00,0,No Delay,Menzies,2781.8,Yes
+SHP10196,2024-06-11,DXB,DEL,Perishables,19:45,21:45,151,Weather,JAS,6258.7,Yes
+SHP10197,2024-10-27,DXB,CDG,Pharmaceuticals,13:15,13:15,0,No Delay,dnata,1044.1,Yes
+SHP10198,2024-12-04,DXB,SYD,Pharmaceuticals,22:00,22:00,0,No Delay,Menzies,3206.5,Yes
+SHP10199,2024-02-02,DXB,FRA,Courier,00:45,00:45,0,No Delay,dnata,876.2,Yes
+SHP10200,2024-02-13,DXB,DEL,Pharmaceuticals,12:30,12:30,0,No Delay,Menzies,5913.9,No
+SHP10201,2024-11-16,DXB,ORD,General Cargo,05:00,12:00,444,Documentation Issue,Swissport,6889.9,Yes
+SHP10202,2024-08-31,DXB,FRA,Courier,17:30,17:30,0,No Delay,JAS,1124.2,Yes
+SHP10203,2024-10-29,DXB,BOM,Courier,20:45,02:45,398,Equipment Fault,WFS,2511.8,Yes
+SHP10204,2024-09-03,DXB,CDG,Perishables,14:30,15:30,60,Security Hold,JAS,2115.5,Yes
+SHP10205,2024-01-06,DXB,LHR,Perishables,04:30,04:30,0,No Delay,JAS,4304.0,No
+SHP10206,2024-09-01,DXB,SYD,Live Animals,09:15,12:15,235,Late Arrival,dnata,4408.3,Yes
+SHP10207,2024-07-29,DXB,CDG,Live Animals,05:45,07:45,142,Customs Delay,JAS,1803.7,Yes
+SHP10208,2024-08-04,DXB,DEL,Perishables,19:30,01:30,406,Security Hold,WFS,6480.0,No
+SHP10209,2024-04-06,DXB,JFK,Courier,03:45,05:45,163,Security Hold,JAS,2213.5,No
+SHP10210,2024-04-06,DXB,HKG,Pharmaceuticals,17:00,17:00,40,Late Arrival,dnata,2292.8,Yes
+SHP10211,2024-08-12,DXB,CGO,Dangerous Goods,04:00,05:00,61,Late Arrival,Menzies,2768.2,Yes
+SHP10212,2024-09-12,DXB,HKG,General Cargo,01:30,08:30,420,Equipment Fault,Menzies,495.5,No
+SHP10213,2024-02-06,DXB,CDG,Live Animals,08:45,09:45,113,Equipment Fault,dnata,1019.6,Yes
+SHP10214,2024-07-16,DXB,FRA,Valuables,06:45,06:45,32,Weather,dnata,4193.1,Yes
+SHP10215,2024-08-30,DXB,NRT,Pharmaceuticals,09:30,09:30,0,No Delay,dnata,5970.6,Yes
+SHP10216,2024-05-09,DXB,FRA,General Cargo,06:30,06:30,0,No Delay,Menzies,7787.5,Yes
+SHP10217,2024-11-20,DXB,NRT,Dangerous Goods,08:00,09:00,100,Weight & Balance,Menzies,121.0,Yes
+SHP10218,2024-10-24,DXB,CGO,Live Animals,04:30,09:30,320,Equipment Fault,dnata,2027.3,No
+SHP10219,2024-02-16,DXB,DEL,General Cargo,20:00,20:00,0,No Delay,Swissport,5174.4,Yes
+SHP10220,2024-03-05,DXB,FRA,Live Animals,20:30,01:30,300,Security Hold,JAS,5878.9,Yes
+SHP10221,2024-12-18,DXB,NRT,Dangerous Goods,08:00,09:00,83,Weight & Balance,JAS,4494.2,No
+SHP10222,2024-04-07,DXB,BOM,Perishables,10:45,13:45,193,Security Hold,WFS,7320.1,Yes
+SHP10223,2024-02-05,DXB,CDG,Dangerous Goods,08:30,10:30,166,Documentation Issue,dnata,6218.5,No
+SHP10224,2024-04-04,DXB,LHR,Perishables,11:15,11:15,0,No Delay,dnata,5283.4,No
+SHP10225,2024-04-07,DXB,CDG,Courier,17:15,17:15,0,No Delay,Swissport,2614.7,Yes
+SHP10226,2024-02-26,DXB,JFK,Live Animals,02:00,02:00,0,No Delay,Menzies,1470.2,Yes
+SHP10227,2024-04-13,DXB,JFK,Valuables,01:45,02:45,65,Equipment Fault,JAS,4230.3,Yes
+SHP10228,2024-01-26,DXB,HKG,Pharmaceuticals,02:00,08:00,382,Security Hold,JAS,7430.8,Yes
+SHP10229,2024-08-27,DXB,DEL,Live Animals,23:45,04:45,300,Late Arrival,Swissport,6364.3,Yes
+SHP10230,2024-11-11,DXB,SYD,Live Animals,23:00,23:00,0,No Delay,Swissport,669.6,Yes
+SHP10231,2024-09-22,DXB,JFK,Pharmaceuticals,17:45,19:45,133,Documentation Issue,Menzies,4233.2,Yes
+SHP10232,2024-10-18,DXB,DEL,Valuables,17:45,17:45,0,No Delay,dnata,6142.0,Yes
+SHP10233,2024-12-11,DXB,FRA,Pharmaceuticals,13:00,13:00,0,No Delay,Menzies,4422.2,Yes
+SHP10234,2024-12-02,DXB,ORD,Perishables,19:45,19:45,0,No Delay,Swissport,4423.1,Yes
+SHP10235,2024-07-09,DXB,NRT,Courier,13:30,13:30,0,No Delay,Menzies,4527.0,Yes
+SHP10236,2024-07-11,DXB,CDG,Dangerous Goods,08:30,08:30,0,No Delay,JAS,7680.6,Yes
+SHP10237,2024-01-18,DXB,SYD,Perishables,16:15,16:15,0,No Delay,dnata,2437.7,Yes
+SHP10238,2024-04-19,DXB,HKG,Courier,22:30,05:30,435,Late Arrival,WFS,4472.8,Yes
+SHP10239,2024-02-18,DXB,LHR,Perishables,04:30,05:30,94,Equipment Fault,WFS,2036.4,Yes
+SHP10240,2024-06-02,DXB,JFK,Valuables,18:15,18:15,0,No Delay,dnata,5802.5,No
+SHP10241,2024-03-29,DXB,FRA,Courier,22:00,22:00,0,No Delay,Swissport,347.1,No
+SHP10242,2024-02-10,DXB,LHR,Live Animals,10:30,10:30,0,No Delay,JAS,3361.3,Yes
+SHP10243,2024-04-26,DXB,CGO,Valuables,19:00,19:00,0,No Delay,JAS,480.3,Yes
+SHP10244,2024-06-12,DXB,CDG,Pharmaceuticals,10:15,10:15,0,No Delay,dnata,5405.4,No
+SHP10245,2024-08-16,DXB,BOM,Dangerous Goods,02:15,02:15,0,No Delay,Swissport,6301.6,Yes
+SHP10246,2024-03-08,DXB,HKG,Courier,23:00,04:00,307,Documentation Issue,JAS,2137.3,No
+SHP10247,2024-09-13,DXB,NRT,Dangerous Goods,04:15,04:15,0,No Delay,WFS,1625.0,No
+SHP10248,2024-11-29,DXB,BOM,Pharmaceuticals,23:15,04:15,330,Security Hold,dnata,2166.7,No
+SHP10249,2024-06-14,DXB,DEL,Valuables,02:00,02:00,0,No Delay,JAS,3417.1,Yes
+SHP10250,2024-04-07,DXB,HKG,Pharmaceuticals,00:30,05:30,350,Weight & Balance,Swissport,4949.0,No
+SHP10251,2024-11-15,DXB,ORD,Valuables,07:15,14:15,433,Customs Delay,Swissport,1290.1,Yes
+SHP10252,2024-02-27,DXB,CGO,General Cargo,04:30,09:30,332,Late Arrival,Swissport,5565.7,Yes
+SHP10253,2024-06-05,DXB,FRA,Pharmaceuticals,06:15,09:15,184,Equipment Fault,WFS,4210.0,Yes
+SHP10254,2024-10-07,DXB,FRA,Dangerous Goods,04:00,04:00,0,No Delay,WFS,7253.0,Yes
+SHP10255,2024-05-10,DXB,ORD,General Cargo,22:30,23:30,117,Late Arrival,JAS,5255.3,Yes
+SHP10256,2024-02-04,DXB,NRT,Live Animals,21:30,21:30,0,No Delay,dnata,201.7,No
+SHP10257,2024-04-28,DXB,NRT,Dangerous Goods,03:30,09:30,378,Equipment Fault,WFS,4275.9,Yes
+SHP10258,2024-04-11,DXB,CDG,General Cargo,17:00,17:00,0,No Delay,Menzies,7382.0,Yes
+SHP10259,2024-06-19,DXB,FRA,Valuables,00:30,01:30,95,Customs Delay,Swissport,2875.3,Yes
+SHP10260,2024-04-30,DXB,CDG,Dangerous Goods,20:30,20:30,46,Weather,dnata,7555.9,Yes
+SHP10261,2024-04-25,DXB,ORD,General Cargo,21:15,00:15,216,Weight & Balance,JAS,4189.7,Yes
+SHP10262,2024-08-01,DXB,SIN,Courier,13:30,13:30,0,No Delay,Swissport,3620.9,Yes
+SHP10263,2024-04-15,DXB,DEL,Live Animals,21:15,01:15,292,Documentation Issue,Menzies,2506.5,Yes
+SHP10264,2024-08-08,DXB,ORD,Perishables,18:15,18:15,0,No Delay,dnata,4480.9,Yes
+SHP10265,2024-04-04,DXB,HKG,Live Animals,04:00,04:00,0,No Delay,Swissport,7047.0,No
+SHP10266,2024-07-29,DXB,SYD,Pharmaceuticals,20:30,03:30,435,Customs Delay,Menzies,898.8,Yes
+SHP10267,2024-01-14,DXB,BOM,Courier,19:15,19:15,0,No Delay,Menzies,1885.8,Yes
+SHP10268,2024-07-02,DXB,JFK,Courier,15:15,15:15,0,No Delay,WFS,3776.7,Yes
+SHP10269,2024-04-04,DXB,NRT,Pharmaceuticals,05:15,06:15,85,Equipment Fault,dnata,3298.3,Yes
+SHP10270,2024-05-18,DXB,NRT,General Cargo,06:15,11:15,358,Security Hold,Menzies,7420.5,No
+SHP10271,2024-11-11,DXB,FRA,Dangerous Goods,14:15,14:15,0,No Delay,JAS,6220.9,No
+SHP10272,2024-06-09,DXB,NRT,Courier,23:00,23:00,0,No Delay,dnata,3640.3,Yes
+SHP10273,2024-05-05,DXB,CDG,Courier,23:00,23:00,0,No Delay,JAS,4153.2,Yes
+SHP10274,2024-04-07,DXB,SYD,Dangerous Goods,09:30,16:30,467,Customs Delay,Menzies,3408.6,Yes
+SHP10275,2024-12-19,DXB,CDG,General Cargo,14:45,14:45,0,No Delay,WFS,949.7,Yes
+SHP10276,2024-07-20,DXB,NRT,Courier,05:45,05:45,27,Weight & Balance,Menzies,7066.3,Yes
+SHP10277,2024-05-08,DXB,HKG,Valuables,22:15,22:15,0,No Delay,dnata,775.0,No
+SHP10278,2024-11-20,DXB,HKG,Dangerous Goods,12:15,18:15,377,Documentation Issue,WFS,3075.8,Yes
+SHP10279,2024-06-20,DXB,BOM,Live Animals,04:15,04:15,0,No Delay,Menzies,1472.0,Yes
+SHP10280,2024-08-02,DXB,SYD,Valuables,14:30,20:30,408,Weight & Balance,Menzies,984.6,Yes
+SHP10281,2024-04-13,DXB,LHR,Dangerous Goods,08:00,08:00,0,No Delay,JAS,6850.5,Yes
+SHP10282,2024-11-07,DXB,FRA,Dangerous Goods,21:45,02:45,316,Security Hold,JAS,3562.9,Yes
+SHP10283,2024-05-05,DXB,CDG,General Cargo,17:15,22:15,336,Weather,Menzies,1228.6,Yes
+SHP10284,2024-01-19,DXB,ORD,Perishables,21:30,21:30,0,No Delay,dnata,439.8,No
+SHP10285,2024-04-01,DXB,ORD,Dangerous Goods,19:15,19:15,0,No Delay,WFS,2913.5,Yes
+SHP10286,2024-02-17,DXB,SYD,Live Animals,12:00,19:00,474,Weight & Balance,JAS,6754.3,Yes
+SHP10287,2024-05-29,DXB,FRA,Courier,08:30,14:30,370,Documentation Issue,JAS,4220.9,Yes
+SHP10288,2024-11-09,DXB,LHR,Dangerous Goods,20:00,02:00,388,Documentation Issue,WFS,7474.4,Yes
+SHP10289,2024-08-06,DXB,BOM,Pharmaceuticals,08:30,08:30,0,No Delay,WFS,4522.9,No
+SHP10290,2024-09-09,DXB,ORD,Pharmaceuticals,07:30,07:30,0,No Delay,dnata,989.7,No
+SHP10291,2024-11-16,DXB,JFK,Dangerous Goods,06:45,06:45,0,No Delay,dnata,2703.6,Yes
+SHP10292,2024-01-06,DXB,DEL,Perishables,08:00,10:00,159,Security Hold,Swissport,4078.2,Yes
+SHP10293,2024-01-04,DXB,JFK,Valuables,10:45,10:45,0,No Delay,WFS,4947.1,Yes
+SHP10294,2024-03-30,DXB,SIN,Dangerous Goods,21:45,00:45,188,Weight & Balance,dnata,5182.9,No
+SHP10295,2024-03-20,DXB,DEL,Dangerous Goods,17:30,00:30,457,Equipment Fault,JAS,7425.9,Yes
+SHP10296,2024-09-23,DXB,SYD,Courier,21:30,21:30,0,No Delay,WFS,198.8,Yes
+SHP10297,2024-06-30,DXB,JFK,Perishables,08:00,08:00,0,No Delay,JAS,5030.8,Yes
+SHP10298,2024-10-19,DXB,BOM,Valuables,03:30,08:30,319,Customs Delay,Swissport,5693.2,Yes
+SHP10299,2024-07-30,DXB,JFK,Live Animals,11:45,13:45,136,Equipment Fault,Swissport,1768.3,Yes
+SHP10300,2024-03-30,DXB,JFK,Dangerous Goods,06:00,06:00,34,Customs Delay,WFS,248.2,No
+SHP10301,2024-09-13,DXB,ORD,Live Animals,23:30,03:30,262,Security Hold,Swissport,1189.2,Yes
+SHP10302,2024-09-21,DXB,DEL,Dangerous Goods,06:00,06:00,0,No Delay,JAS,5723.7,Yes
+SHP10303,2024-01-03,DXB,SYD,Perishables,21:00,21:00,0,No Delay,JAS,7119.0,Yes
+SHP10304,2024-09-23,DXB,DEL,Valuables,00:30,00:30,0,No Delay,Menzies,2601.0,Yes
+SHP10305,2024-05-26,DXB,SYD,Perishables,14:00,14:00,0,No Delay,Menzies,1302.1,Yes
+SHP10306,2024-01-08,DXB,BOM,Courier,03:15,03:15,0,No Delay,Swissport,4417.5,Yes
+SHP10307,2024-03-13,DXB,CGO,Pharmaceuticals,18:15,18:15,0,No Delay,dnata,2525.5,Yes
+SHP10308,2024-10-03,DXB,FRA,General Cargo,15:00,15:00,29,Late Arrival,JAS,477.7,No
+SHP10309,2024-07-19,DXB,ORD,Courier,18:45,18:45,0,No Delay,Swissport,2533.9,Yes
+SHP10310,2024-12-09,DXB,CDG,General Cargo,14:15,20:15,401,Late Arrival,JAS,823.2,Yes
+SHP10311,2024-12-16,DXB,DEL,Pharmaceuticals,14:45,14:45,0,No Delay,Menzies,1192.6,Yes
+SHP10312,2024-07-05,DXB,NRT,Dangerous Goods,10:30,15:30,355,Security Hold,JAS,290.6,No
+SHP10313,2024-02-27,DXB,HKG,Live Animals,05:30,12:30,448,Equipment Fault,Swissport,4855.3,Yes
+SHP10314,2024-09-17,DXB,JFK,Courier,03:30,09:30,380,Customs Delay,dnata,6349.8,No
+SHP10315,2024-07-24,DXB,BOM,Dangerous Goods,07:15,12:15,332,Customs Delay,JAS,575.2,Yes
+SHP10316,2024-12-21,DXB,BOM,Courier,18:30,21:30,237,Customs Delay,Menzies,1426.0,Yes
+SHP10317,2024-12-30,DXB,BOM,Perishables,03:45,03:45,0,No Delay,WFS,826.3,No
+SHP10318,2024-03-31,DXB,SYD,Valuables,02:00,02:00,0,No Delay,WFS,6182.2,No
+SHP10319,2024-06-16,DXB,FRA,Pharmaceuticals,01:00,01:00,0,No Delay,Menzies,7103.7,Yes
+SHP10320,2024-03-16,DXB,DEL,Courier,09:45,13:45,287,Documentation Issue,WFS,3604.9,Yes
+SHP10321,2024-12-14,DXB,HKG,Dangerous Goods,21:30,04:30,421,Weight & Balance,Swissport,7922.8,Yes
+SHP10322,2024-11-09,DXB,CDG,Perishables,09:00,10:00,80,Customs Delay,WFS,7744.8,Yes
+SHP10323,2024-12-26,DXB,CDG,Live Animals,11:00,11:00,0,No Delay,Swissport,6932.2,Yes
+SHP10324,2024-08-09,DXB,CGO,Valuables,20:30,20:30,0,No Delay,JAS,3278.0,No
+SHP10325,2024-10-06,DXB,SIN,Pharmaceuticals,15:15,15:15,0,No Delay,WFS,3107.5,Yes
+SHP10326,2024-08-01,DXB,ORD,Pharmaceuticals,21:15,04:15,461,Weather,dnata,620.4,Yes
+SHP10327,2024-03-14,DXB,CGO,Pharmaceuticals,21:45,21:45,0,No Delay,dnata,1140.9,No
+SHP10328,2024-08-21,DXB,CGO,Dangerous Goods,13:15,13:15,0,No Delay,WFS,3421.8,No
+SHP10329,2024-07-15,DXB,HKG,Courier,19:00,22:00,232,Security Hold,JAS,6782.1,Yes
+SHP10330,2024-12-30,DXB,CDG,General Cargo,18:30,22:30,294,Weather,dnata,4566.8,Yes
+SHP10331,2024-02-27,DXB,BOM,Valuables,02:15,08:15,368,Equipment Fault,WFS,7869.5,Yes
+SHP10332,2024-08-26,DXB,CDG,Pharmaceuticals,19:00,02:00,470,Late Arrival,JAS,5063.8,Yes
+SHP10333,2024-12-16,DXB,DEL,Courier,18:30,18:30,0,No Delay,dnata,7233.5,Yes
+SHP10334,2024-08-28,DXB,FRA,Dangerous Goods,15:30,15:30,0,No Delay,Swissport,7686.6,Yes
+SHP10335,2024-05-28,DXB,ORD,Valuables,23:30,04:30,320,Late Arrival,WFS,2120.5,No
+SHP10336,2024-10-23,DXB,ORD,Live Animals,21:30,21:30,0,No Delay,WFS,267.0,No
+SHP10337,2024-02-12,DXB,ORD,Pharmaceuticals,08:30,15:30,450,Equipment Fault,WFS,2283.7,Yes
+SHP10338,2024-01-08,DXB,CGO,Valuables,18:15,19:15,104,Documentation Issue,JAS,2989.6,Yes
+SHP10339,2024-05-13,DXB,CGO,Perishables,16:00,17:00,107,Security Hold,dnata,7740.4,Yes
+SHP10340,2024-09-10,DXB,NRT,Valuables,07:45,07:45,0,No Delay,Menzies,1726.3,Yes
+SHP10341,2024-01-28,DXB,DEL,Pharmaceuticals,03:00,10:00,434,Weather,JAS,3220.0,Yes
+SHP10342,2024-08-31,DXB,CGO,Dangerous Goods,17:15,17:15,0,No Delay,JAS,3823.0,Yes
+SHP10343,2024-09-28,DXB,NRT,Valuables,14:45,21:45,423,Late Arrival,Swissport,7696.0,Yes
+SHP10344,2024-02-19,DXB,CDG,Perishables,13:30,13:30,0,No Delay,Swissport,2173.3,Yes
+SHP10345,2024-05-10,DXB,DEL,Valuables,14:15,14:15,0,No Delay,WFS,6175.5,Yes
+SHP10346,2024-12-12,DXB,CGO,Valuables,10:00,10:00,0,No Delay,dnata,6661.9,Yes
+SHP10347,2024-07-29,DXB,JFK,Perishables,21:45,21:45,0,No Delay,Menzies,5815.7,Yes
+SHP10348,2024-04-08,DXB,LHR,Courier,01:15,02:15,62,Late Arrival,dnata,5679.2,Yes
+SHP10349,2024-02-14,DXB,BOM,General Cargo,20:15,01:15,351,Documentation Issue,Menzies,2064.0,No
+SHP10350,2024-12-04,DXB,JFK,Valuables,08:45,08:45,0,No Delay,Swissport,2095.8,Yes
+SHP10351,2024-05-21,DXB,LHR,Live Animals,01:30,04:30,185,Customs Delay,Swissport,1464.5,Yes
+SHP10352,2024-09-08,DXB,SIN,General Cargo,05:45,05:45,0,No Delay,Menzies,4348.0,No
+SHP10353,2024-04-21,DXB,BOM,General Cargo,14:30,14:30,0,No Delay,dnata,629.7,Yes
+SHP10354,2024-08-16,DXB,LHR,General Cargo,04:00,04:00,0,No Delay,JAS,2168.2,Yes
+SHP10355,2024-07-19,DXB,BOM,Dangerous Goods,15:45,21:45,377,Late Arrival,JAS,6760.2,Yes
+SHP10356,2024-10-03,DXB,SIN,Courier,15:00,21:00,367,Late Arrival,WFS,7483.6,Yes
+SHP10357,2024-06-19,DXB,DEL,Perishables,20:00,20:00,43,Weight & Balance,WFS,6834.1,Yes
+SHP10358,2024-02-11,DXB,FRA,Pharmaceuticals,09:15,09:15,0,No Delay,WFS,362.7,No
+SHP10359,2024-12-04,DXB,SIN,Dangerous Goods,03:30,06:30,214,Weight & Balance,dnata,7087.5,No
+SHP10360,2024-04-07,DXB,ORD,Dangerous Goods,23:15,23:15,27,Late Arrival,JAS,550.8,Yes
+SHP10361,2024-09-12,DXB,CDG,General Cargo,14:00,14:00,0,No Delay,Swissport,495.6,Yes
+SHP10362,2024-07-26,DXB,JFK,Valuables,21:45,02:45,349,Security Hold,WFS,1234.2,Yes
+SHP10363,2024-02-06,DXB,LHR,Dangerous Goods,15:00,15:00,0,No Delay,WFS,414.1,Yes
+SHP10364,2024-01-08,DXB,ORD,Dangerous Goods,09:00,09:00,0,No Delay,WFS,1407.0,Yes
+SHP10365,2024-02-24,DXB,JFK,General Cargo,19:15,02:15,424,Equipment Fault,Menzies,3438.4,No
+SHP10366,2024-06-15,DXB,JFK,Perishables,18:15,18:15,0,No Delay,Menzies,6125.6,Yes
+SHP10367,2024-06-20,DXB,JFK,Valuables,13:15,14:15,87,Documentation Issue,Swissport,4449.6,No
+SHP10368,2024-05-04,DXB,BOM,Live Animals,20:45,21:45,66,Late Arrival,Menzies,174.3,No
+SHP10369,2024-02-11,DXB,LHR,Dangerous Goods,22:30,23:30,60,Late Arrival,JAS,5554.2,Yes
+SHP10370,2024-03-14,DXB,DEL,Pharmaceuticals,13:15,17:15,245,Weather,WFS,5548.8,Yes
+SHP10371,2024-09-12,DXB,BOM,Perishables,20:30,20:30,0,No Delay,JAS,86.3,Yes
+SHP10372,2024-04-08,DXB,JFK,Live Animals,03:30,03:30,0,No Delay,WFS,4084.9,No
+SHP10373,2024-11-16,DXB,DEL,Live Animals,06:00,06:00,42,Security Hold,Menzies,5497.7,No
+SHP10374,2024-09-11,DXB,ORD,Perishables,01:30,01:30,37,Documentation Issue,Menzies,3505.6,Yes
+SHP10375,2024-11-11,DXB,FRA,Pharmaceuticals,01:15,07:15,394,Late Arrival,dnata,3906.2,Yes
+SHP10376,2024-02-06,DXB,SIN,Dangerous Goods,18:30,18:30,0,No Delay,Menzies,5989.3,Yes
+SHP10377,2024-04-27,DXB,JFK,Live Animals,07:45,08:45,65,Weight & Balance,Menzies,3035.5,Yes
+SHP10378,2024-02-07,DXB,FRA,Pharmaceuticals,01:45,01:45,0,No Delay,Menzies,7426.7,No
+SHP10379,2024-04-01,DXB,NRT,Valuables,23:15,03:15,249,Customs Delay,Swissport,7805.7,Yes
+SHP10380,2024-06-20,DXB,ORD,Pharmaceuticals,01:30,06:30,306,Late Arrival,dnata,6820.6,No
+SHP10381,2024-08-02,DXB,ORD,Courier,07:30,07:30,0,No Delay,Menzies,6326.9,Yes
+SHP10382,2024-10-22,DXB,CDG,Live Animals,02:45,02:45,0,No Delay,WFS,3939.2,Yes
+SHP10383,2024-10-29,DXB,FRA,Valuables,08:00,08:00,0,No Delay,JAS,5902.6,Yes
+SHP10384,2024-05-06,DXB,HKG,Courier,18:15,20:15,128,Customs Delay,dnata,3371.3,Yes
+SHP10385,2024-01-21,DXB,FRA,Dangerous Goods,16:00,16:00,0,No Delay,WFS,3184.8,Yes
+SHP10386,2024-08-19,DXB,FRA,Pharmaceuticals,00:45,05:45,300,Security Hold,Menzies,2899.3,Yes
+SHP10387,2024-11-27,DXB,JFK,Valuables,09:15,14:15,357,Late Arrival,JAS,6870.5,Yes
+SHP10388,2024-08-20,DXB,FRA,Pharmaceuticals,22:45,22:45,0,No Delay,Swissport,5033.1,Yes
+SHP10389,2024-11-17,DXB,JFK,Perishables,10:00,16:00,368,Customs Delay,JAS,6035.5,Yes
+SHP10390,2024-12-16,DXB,JFK,Courier,10:00,10:00,0,No Delay,Swissport,7109.4,Yes
+SHP10391,2024-07-15,DXB,HKG,Pharmaceuticals,11:30,11:30,35,Equipment Fault,WFS,5653.7,Yes
+SHP10392,2024-03-11,DXB,HKG,Valuables,20:45,21:45,73,Security Hold,WFS,6975.5,Yes
+SHP10393,2024-04-25,DXB,HKG,Perishables,16:45,18:45,151,Weight & Balance,dnata,553.8,Yes
+SHP10394,2024-08-19,DXB,FRA,Valuables,03:45,10:45,439,Equipment Fault,WFS,5442.6,Yes
+SHP10395,2024-08-19,DXB,BOM,Pharmaceuticals,22:00,03:00,359,Customs Delay,JAS,744.1,No
+SHP10396,2024-04-01,DXB,SYD,Pharmaceuticals,02:00,02:00,0,No Delay,Swissport,940.6,Yes
+SHP10397,2024-09-11,DXB,ORD,Perishables,16:00,16:00,0,No Delay,JAS,7758.1,Yes
+SHP10398,2024-08-30,DXB,HKG,Perishables,20:00,02:00,392,Customs Delay,Menzies,550.4,Yes
+SHP10399,2024-09-23,DXB,DEL,Dangerous Goods,10:30,15:30,311,Weight & Balance,WFS,5343.5,No
+SHP10400,2024-08-22,DXB,SYD,Live Animals,09:15,09:15,0,No Delay,Swissport,1852.9,Yes
+SHP10401,2024-05-27,DXB,LHR,Courier,14:15,16:15,160,Documentation Issue,Menzies,5708.9,Yes
+SHP10402,2024-04-03,DXB,ORD,Pharmaceuticals,22:15,22:15,0,No Delay,Menzies,979.5,Yes
+SHP10403,2024-10-21,DXB,ORD,Courier,05:15,08:15,204,Customs Delay,dnata,5341.1,Yes
+SHP10404,2024-03-16,DXB,HKG,General Cargo,17:30,18:30,98,Customs Delay,dnata,3266.3,No
+SHP10405,2024-03-15,DXB,FRA,Valuables,04:00,04:00,0,No Delay,WFS,7806.0,Yes
+SHP10406,2024-11-27,DXB,CGO,Live Animals,09:15,16:15,473,Weight & Balance,WFS,5841.9,No
+SHP10407,2024-06-22,DXB,CGO,Valuables,01:15,05:15,260,Documentation Issue,WFS,979.2,Yes
+SHP10408,2024-07-24,DXB,BOM,General Cargo,14:30,14:30,0,No Delay,Swissport,487.5,Yes
+SHP10409,2024-10-25,DXB,CDG,General Cargo,08:15,14:15,407,Security Hold,dnata,4330.4,No
+SHP10410,2024-12-12,DXB,DEL,Pharmaceuticals,16:45,16:45,0,No Delay,JAS,2576.2,Yes
+SHP10411,2024-12-07,DXB,HKG,Dangerous Goods,13:30,19:30,381,Customs Delay,Swissport,146.9,Yes
+SHP10412,2024-06-28,DXB,SYD,Pharmaceuticals,17:00,17:00,0,No Delay,JAS,5945.1,No
+SHP10413,2024-08-14,DXB,SYD,Pharmaceuticals,13:45,19:45,387,Documentation Issue,WFS,4803.6,Yes
+SHP10414,2024-04-16,DXB,SYD,General Cargo,16:30,23:30,459,Equipment Fault,WFS,6061.1,Yes
+SHP10415,2024-01-04,DXB,NRT,Pharmaceuticals,08:45,08:45,0,No Delay,WFS,3723.9,Yes
+SHP10416,2024-04-12,DXB,ORD,General Cargo,09:45,09:45,0,No Delay,Swissport,6685.0,Yes
+SHP10417,2024-09-09,DXB,CDG,Live Animals,07:00,07:00,0,No Delay,dnata,1274.5,Yes
+SHP10418,2024-11-23,DXB,DEL,Dangerous Goods,21:30,02:30,349,Equipment Fault,Menzies,3960.5,Yes
+SHP10419,2024-01-15,DXB,JFK,Courier,15:00,15:00,0,No Delay,Swissport,4669.5,No
+SHP10420,2024-05-12,DXB,DEL,Perishables,22:00,22:00,0,No Delay,WFS,5877.0,Yes
+SHP10421,2024-05-12,DXB,ORD,Dangerous Goods,04:30,04:30,0,No Delay,Menzies,2891.2,Yes
+SHP10422,2024-05-19,DXB,HKG,Perishables,01:30,04:30,197,Customs Delay,WFS,5129.6,Yes
+SHP10423,2024-09-20,DXB,SIN,Courier,05:00,05:00,0,No Delay,Menzies,4372.5,Yes
+SHP10424,2024-12-16,DXB,SYD,General Cargo,22:30,04:30,372,Weather,WFS,4661.4,Yes
+SHP10425,2024-01-07,DXB,ORD,Dangerous Goods,11:45,11:45,0,No Delay,Swissport,7371.2,Yes
+SHP10426,2024-02-22,DXB,SIN,Dangerous Goods,06:00,08:00,128,Documentation Issue,JAS,7332.4,Yes
+SHP10427,2024-03-08,DXB,LHR,Pharmaceuticals,22:30,00:30,174,Equipment Fault,JAS,7123.3,Yes
+SHP10428,2024-03-29,DXB,CGO,Pharmaceuticals,03:15,09:15,396,Weight & Balance,Menzies,5520.0,Yes
+SHP10429,2024-03-05,DXB,SIN,General Cargo,13:00,13:00,55,Documentation Issue,dnata,6208.8,No
+SHP10430,2024-01-22,DXB,SIN,Dangerous Goods,21:00,04:00,421,Documentation Issue,dnata,7272.8,Yes
+SHP10431,2024-02-03,DXB,SYD,Courier,03:00,03:00,0,No Delay,Menzies,4721.4,Yes
+SHP10432,2024-04-04,DXB,DEL,Courier,04:30,05:30,61,Weight & Balance,Swissport,2850.0,Yes
+SHP10433,2024-09-15,DXB,BOM,Courier,18:00,01:00,434,Late Arrival,Menzies,5740.7,Yes
+SHP10434,2024-03-28,DXB,CDG,Courier,03:15,09:15,386,Late Arrival,JAS,2963.4,Yes
+SHP10435,2024-08-13,DXB,DEL,Dangerous Goods,05:30,05:30,0,No Delay,JAS,1753.5,Yes
+SHP10436,2024-07-27,DXB,JFK,Dangerous Goods,10:00,10:00,0,No Delay,dnata,4181.8,No
+SHP10437,2024-07-03,DXB,CGO,Perishables,01:00,07:00,384,Weather,JAS,970.0,Yes
+SHP10438,2024-08-21,DXB,BOM,Pharmaceuticals,21:45,21:45,0,No Delay,WFS,3287.9,No
+SHP10439,2024-04-06,DXB,JFK,Pharmaceuticals,15:30,15:30,0,No Delay,dnata,7989.9,No
+SHP10440,2024-12-10,DXB,JFK,General Cargo,21:00,01:00,282,Customs Delay,Menzies,3188.8,Yes
+SHP10441,2024-03-27,DXB,JFK,Courier,10:15,11:15,116,Weight & Balance,JAS,1026.0,No
+SHP10442,2024-09-12,DXB,SYD,Live Animals,18:30,18:30,0,No Delay,JAS,2881.0,No
+SHP10443,2024-09-05,DXB,CDG,General Cargo,14:00,20:00,408,Weather,Swissport,3940.3,Yes
+SHP10444,2024-11-17,DXB,ORD,Dangerous Goods,01:00,07:00,392,Late Arrival,dnata,7778.0,No
+SHP10445,2024-11-05,DXB,DEL,Live Animals,19:00,21:00,170,Weight & Balance,dnata,5305.6,No
+SHP10446,2024-08-26,DXB,SIN,Courier,15:30,19:30,269,Weight & Balance,Swissport,6485.4,Yes
+SHP10447,2024-01-17,DXB,NRT,Dangerous Goods,03:45,03:45,0,No Delay,Swissport,6830.4,No
+SHP10448,2024-08-23,DXB,LHR,Valuables,21:30,02:30,300,Late Arrival,Menzies,3957.3,Yes
+SHP10449,2024-06-08,DXB,CGO,Valuables,03:45,09:45,406,Customs Delay,WFS,5498.7,No
+SHP10450,2024-08-31,DXB,CDG,Dangerous Goods,16:00,16:00,0,No Delay,Swissport,3982.8,No
+SHP10451,2024-11-11,DXB,DEL,General Cargo,10:00,12:00,160,Weight & Balance,WFS,408.7,Yes
+SHP10452,2024-06-27,DXB,CGO,Dangerous Goods,20:30,20:30,0,No Delay,dnata,3453.8,Yes
+SHP10453,2024-07-29,DXB,HKG,Valuables,07:15,09:15,140,Late Arrival,Swissport,4760.6,Yes
+SHP10454,2024-06-05,DXB,JFK,General Cargo,17:30,17:30,25,Weight & Balance,JAS,5279.3,No
+SHP10455,2024-10-17,DXB,CDG,Valuables,08:00,08:00,0,No Delay,JAS,4724.5,Yes
+SHP10456,2024-07-12,DXB,BOM,General Cargo,03:45,08:45,308,Customs Delay,Menzies,2720.9,Yes
+SHP10457,2024-03-26,DXB,BOM,Valuables,06:45,09:45,238,Weight & Balance,dnata,6731.0,Yes
+SHP10458,2024-05-27,DXB,SYD,Courier,12:15,17:15,308,Late Arrival,dnata,5755.8,Yes
+SHP10459,2024-10-30,DXB,HKG,Dangerous Goods,16:45,21:45,305,Weather,Menzies,2811.2,Yes
+SHP10460,2024-11-29,DXB,SYD,Pharmaceuticals,13:30,15:30,168,Equipment Fault,JAS,3248.3,No
+SHP10461,2024-12-09,DXB,CDG,Courier,20:15,20:15,24,Security Hold,JAS,1743.0,No
+SHP10462,2024-05-17,DXB,DEL,Courier,19:45,19:45,0,No Delay,dnata,4202.0,Yes
+SHP10463,2024-08-24,DXB,ORD,Live Animals,21:30,03:30,397,Security Hold,JAS,3311.6,Yes
+SHP10464,2024-11-20,DXB,SIN,Valuables,08:30,08:30,0,No Delay,Menzies,2088.8,Yes
+SHP10465,2024-07-26,DXB,SIN,Live Animals,00:15,01:15,113,Documentation Issue,Swissport,3740.1,No
+SHP10466,2024-08-04,DXB,DEL,Perishables,06:15,06:15,0,No Delay,Menzies,281.7,Yes
+SHP10467,2024-12-03,DXB,CDG,Live Animals,01:45,08:45,451,Documentation Issue,dnata,489.9,Yes
+SHP10468,2024-06-09,DXB,BOM,Valuables,13:30,13:30,47,Weight & Balance,dnata,3205.3,Yes
+SHP10469,2024-04-30,DXB,JFK,Courier,16:00,16:00,0,No Delay,WFS,7599.9,Yes
+SHP10470,2024-09-11,DXB,JFK,Live Animals,10:30,11:30,77,Security Hold,WFS,5911.0,Yes
+SHP10471,2024-08-04,DXB,SIN,Dangerous Goods,06:30,07:30,104,Documentation Issue,JAS,2071.7,Yes
+SHP10472,2024-09-08,DXB,CDG,Dangerous Goods,10:45,11:45,72,Customs Delay,Menzies,7708.4,Yes
+SHP10473,2024-07-04,DXB,FRA,Valuables,09:00,09:00,0,No Delay,WFS,326.7,Yes
+SHP10474,2024-12-19,DXB,DEL,Valuables,12:30,16:30,297,Security Hold,Swissport,7230.1,Yes
+SHP10475,2024-09-30,DXB,SIN,Dangerous Goods,12:00,12:00,0,No Delay,Swissport,2442.1,Yes
+SHP10476,2024-06-01,DXB,SIN,Valuables,05:45,05:45,0,No Delay,Swissport,7041.8,No
+SHP10477,2024-01-18,DXB,SYD,Valuables,15:45,15:45,0,No Delay,JAS,7415.7,Yes
+SHP10478,2024-08-04,DXB,JFK,Courier,22:30,22:30,0,No Delay,dnata,2847.3,Yes
+SHP10479,2024-08-20,DXB,CGO,Valuables,20:15,20:15,41,Late Arrival,JAS,6338.6,Yes
+SHP10480,2024-01-02,DXB,NRT,General Cargo,10:00,12:00,171,Security Hold,Menzies,2034.3,Yes
+SHP10481,2024-10-31,DXB,DEL,Live Animals,14:45,16:45,178,Customs Delay,Menzies,2122.4,Yes
+SHP10482,2024-05-24,DXB,SIN,Dangerous Goods,05:45,08:45,203,Documentation Issue,WFS,1834.7,Yes
+SHP10483,2024-10-12,DXB,DEL,Dangerous Goods,07:00,07:00,0,No Delay,Menzies,2131.2,Yes
+SHP10484,2024-01-26,DXB,NRT,Pharmaceuticals,19:30,19:30,0,No Delay,dnata,7666.4,Yes
+SHP10485,2024-10-17,DXB,JFK,Live Animals,13:45,17:45,284,Late Arrival,JAS,992.2,Yes
+SHP10486,2024-04-07,DXB,SYD,Dangerous Goods,12:15,16:15,268,Weather,Menzies,4820.7,Yes
+SHP10487,2024-12-12,DXB,SIN,Perishables,04:00,07:00,224,Customs Delay,Swissport,1922.1,No
+SHP10488,2024-05-07,DXB,HKG,General Cargo,20:45,20:45,0,No Delay,dnata,3777.6,Yes
+SHP10489,2024-12-20,DXB,NRT,Valuables,22:45,22:45,0,No Delay,JAS,5902.0,Yes
+SHP10490,2024-02-07,DXB,JFK,Pharmaceuticals,01:30,01:30,0,No Delay,JAS,7270.4,Yes
+SHP10491,2024-01-03,DXB,SYD,Valuables,09:45,12:45,210,Equipment Fault,Swissport,1101.3,Yes
+SHP10492,2024-10-24,DXB,ORD,Dangerous Goods,15:30,19:30,272,Weather,Menzies,762.7,No
+SHP10493,2024-03-13,DXB,SYD,Live Animals,04:45,04:45,37,Documentation Issue,Swissport,5995.2,No
+SHP10494,2024-05-24,DXB,SYD,Dangerous Goods,08:30,08:30,0,No Delay,Menzies,2558.6,No
+SHP10495,2024-03-18,DXB,CDG,General Cargo,21:45,21:45,0,No Delay,Menzies,1231.5,Yes
+SHP10496,2024-04-03,DXB,LHR,Dangerous Goods,22:45,23:45,98,Equipment Fault,dnata,7961.9,No
+SHP10497,2024-01-21,DXB,FRA,Dangerous Goods,17:45,23:45,378,Weight & Balance,JAS,944.3,Yes
+SHP10498,2024-03-04,DXB,HKG,Live Animals,09:15,16:15,459,Documentation Issue,Menzies,6012.0,Yes
+SHP10499,2024-10-15,DXB,DEL,Courier,18:00,18:00,0,No Delay,WFS,1485.5,Yes
+SHP10500,2024-05-06,DXB,FRA,Perishables,10:00,10:00,0,No Delay,dnata,3183.6,Yes
+SHP10501,2024-06-14,DXB,ORD,Dangerous Goods,22:45,02:45,250,Late Arrival,Swissport,4773.9,Yes
+SHP10502,2024-06-17,DXB,LHR,Valuables,14:30,14:30,0,No Delay,WFS,1078.1,Yes
+SHP10503,2024-11-25,DXB,SYD,Courier,23:00,23:00,43,Weight & Balance,WFS,3082.1,No
+SHP10504,2024-05-10,DXB,ORD,General Cargo,12:00,18:00,409,Security Hold,Menzies,1345.4,No
+SHP10505,2024-05-25,DXB,DEL,General Cargo,20:15,20:15,0,No Delay,Swissport,3952.2,No
+SHP10506,2024-06-07,DXB,DEL,Live Animals,11:00,11:00,0,No Delay,Swissport,4125.6,No
+SHP10507,2024-08-16,DXB,NRT,General Cargo,19:45,00:45,303,Equipment Fault,JAS,6497.4,Yes
+SHP10508,2024-08-10,DXB,DEL,Dangerous Goods,16:30,16:30,35,Customs Delay,Menzies,5198.5,Yes
+SHP10509,2024-09-10,DXB,CDG,Perishables,16:00,16:00,0,No Delay,JAS,3527.0,No
+SHP10510,2024-06-02,DXB,ORD,Live Animals,21:30,21:30,0,No Delay,Menzies,4208.6,Yes
+SHP10511,2024-10-18,DXB,LHR,Courier,01:00,01:00,0,No Delay,JAS,3333.5,No
+SHP10512,2024-12-04,DXB,CGO,Perishables,08:30,08:30,0,No Delay,WFS,700.1,Yes
+SHP10513,2024-02-28,DXB,CGO,Live Animals,05:15,05:15,0,No Delay,JAS,409.8,No
+SHP10514,2024-12-26,DXB,SYD,Courier,14:45,20:45,385,Weight & Balance,Swissport,2763.6,Yes
+SHP10515,2024-04-18,DXB,ORD,Dangerous Goods,08:00,13:00,324,Late Arrival,WFS,192.4,No
+SHP10516,2024-02-29,DXB,LHR,Live Animals,14:45,18:45,259,Documentation Issue,WFS,5821.0,Yes
+SHP10517,2024-11-12,DXB,BOM,Live Animals,22:45,03:45,359,Weight & Balance,Swissport,746.7,Yes
+SHP10518,2024-01-08,DXB,SIN,Live Animals,22:15,22:15,23,Documentation Issue,dnata,1713.4,Yes
+SHP10519,2024-11-28,DXB,SIN,General Cargo,17:15,22:15,335,Customs Delay,Swissport,6169.3,Yes
+SHP10520,2024-08-30,DXB,NRT,Dangerous Goods,04:45,05:45,100,Late Arrival,JAS,206.0,No
+SHP10521,2024-10-26,DXB,SIN,Perishables,12:00,17:00,306,Security Hold,dnata,866.2,No
+SHP10522,2024-07-31,DXB,FRA,General Cargo,19:30,19:30,0,No Delay,JAS,3227.5,No
+SHP10523,2024-04-28,DXB,CGO,Courier,13:30,13:30,24,Late Arrival,dnata,2179.4,No
+SHP10524,2024-08-30,DXB,JFK,Valuables,11:45,16:45,345,Equipment Fault,JAS,215.4,Yes
+SHP10525,2024-04-08,DXB,FRA,Courier,16:15,18:15,133,Weight & Balance,Swissport,7377.8,No
+SHP10526,2024-03-08,DXB,SYD,Live Animals,12:45,12:45,0,No Delay,Swissport,6378.0,Yes
+SHP10527,2024-11-14,DXB,SIN,Pharmaceuticals,02:45,08:45,398,Weather,Menzies,1635.9,No
+SHP10528,2024-02-21,DXB,NRT,Pharmaceuticals,15:30,15:30,0,No Delay,Menzies,4476.8,Yes
+SHP10529,2024-07-02,DXB,SYD,Live Animals,05:00,06:00,96,Weight & Balance,dnata,2735.0,Yes
+SHP10530,2024-11-12,DXB,SIN,Perishables,15:30,17:30,129,Documentation Issue,Swissport,6166.5,Yes
+SHP10531,2024-03-18,DXB,CGO,Valuables,19:00,19:00,0,No Delay,dnata,7416.7,No
+SHP10532,2024-08-22,DXB,JFK,Live Animals,19:00,19:00,0,No Delay,WFS,383.7,Yes
+SHP10533,2024-03-26,DXB,DEL,Valuables,11:15,13:15,120,Documentation Issue,Swissport,5679.9,No
+SHP10534,2024-02-20,DXB,ORD,General Cargo,10:15,10:15,0,No Delay,Menzies,3540.9,No
+SHP10535,2024-01-04,DXB,SIN,Perishables,15:30,15:30,0,No Delay,WFS,1411.5,Yes
+SHP10536,2024-07-09,DXB,CGO,Pharmaceuticals,11:15,11:15,0,No Delay,WFS,3402.7,Yes
+SHP10537,2024-03-11,DXB,NRT,General Cargo,14:30,17:30,224,Customs Delay,JAS,1207.4,Yes
+SHP10538,2024-09-21,DXB,JFK,Dangerous Goods,12:15,14:15,176,Documentation Issue,dnata,3176.5,Yes
+SHP10539,2024-12-04,DXB,DEL,Dangerous Goods,01:30,06:30,309,Documentation Issue,JAS,7092.0,Yes
+SHP10540,2024-06-09,DXB,HKG,Valuables,16:15,18:15,158,Late Arrival,JAS,3597.2,Yes
+SHP10541,2024-10-05,DXB,BOM,Valuables,20:45,20:45,0,No Delay,Swissport,7107.0,No
+SHP10542,2024-04-11,DXB,SYD,Valuables,10:45,14:45,290,Documentation Issue,Menzies,4187.7,Yes
+SHP10543,2024-04-19,DXB,JFK,Live Animals,16:30,18:30,174,Equipment Fault,Menzies,236.2,Yes
+SHP10544,2024-05-03,DXB,SYD,Valuables,16:00,16:00,0,No Delay,dnata,6740.6,Yes
+SHP10545,2024-11-17,DXB,CDG,Dangerous Goods,20:00,20:00,39,Weight & Balance,Swissport,4600.9,Yes
+SHP10546,2024-08-20,DXB,HKG,Perishables,23:15,23:15,0,No Delay,Swissport,2312.1,Yes
+SHP10547,2024-07-12,DXB,CDG,Courier,03:30,03:30,0,No Delay,WFS,1580.8,Yes
+SHP10548,2024-08-20,DXB,JFK,General Cargo,13:00,16:00,232,Documentation Issue,dnata,3427.8,Yes
+SHP10549,2024-08-31,DXB,SIN,Courier,21:45,00:45,204,Customs Delay,WFS,4175.6,No
+SHP10550,2024-05-15,DXB,BOM,Valuables,14:45,17:45,231,Equipment Fault,JAS,6599.3,Yes
+SHP10551,2024-09-15,DXB,ORD,Valuables,04:00,08:00,249,Equipment Fault,Menzies,3670.7,Yes
+SHP10552,2024-03-21,DXB,CDG,General Cargo,19:45,20:45,75,Customs Delay,dnata,2988.2,Yes
+SHP10553,2024-01-21,DXB,CDG,Perishables,09:30,12:30,205,Documentation Issue,Swissport,3913.1,Yes
+SHP10554,2024-03-13,DXB,BOM,Pharmaceuticals,09:30,16:30,472,Customs Delay,Menzies,6562.0,No
+SHP10555,2024-01-02,DXB,JFK,Dangerous Goods,02:00,02:00,0,No Delay,JAS,4605.8,No
+SHP10556,2024-06-21,DXB,NRT,Live Animals,19:15,01:15,383,Equipment Fault,Menzies,4062.9,No
+SHP10557,2024-08-18,DXB,DEL,General Cargo,23:30,06:30,458,Customs Delay,WFS,5332.8,No
+SHP10558,2024-07-17,DXB,SIN,Valuables,10:00,10:00,0,No Delay,JAS,5900.5,Yes
+SHP10559,2024-03-25,DXB,CGO,Courier,22:30,03:30,337,Late Arrival,dnata,5169.1,Yes
+SHP10560,2024-04-08,DXB,BOM,Live Animals,01:15,01:15,0,No Delay,JAS,4046.0,Yes
+SHP10561,2024-03-02,DXB,DEL,Perishables,05:00,05:00,0,No Delay,Menzies,2000.0,No
+SHP10562,2024-02-13,DXB,CDG,Dangerous Goods,12:00,12:00,0,No Delay,dnata,2752.7,Yes
+SHP10563,2024-07-31,DXB,LHR,Perishables,10:45,10:45,0,No Delay,dnata,961.4,Yes
+SHP10564,2024-10-04,DXB,ORD,Pharmaceuticals,08:00,09:00,108,Weather,Swissport,7619.7,Yes
+SHP10565,2024-01-31,DXB,BOM,Valuables,05:00,05:00,0,No Delay,dnata,2419.3,Yes
+SHP10566,2024-06-12,DXB,ORD,Live Animals,08:45,11:45,180,Customs Delay,dnata,462.4,Yes
+SHP10567,2024-11-01,DXB,BOM,General Cargo,16:45,20:45,275,Security Hold,Swissport,532.0,No
+SHP10568,2024-10-10,DXB,NRT,General Cargo,13:15,13:15,29,Late Arrival,Swissport,4454.9,Yes
+SHP10569,2024-05-06,DXB,CDG,Courier,04:30,04:30,0,No Delay,JAS,3595.6,Yes
+SHP10570,2024-03-13,DXB,HKG,Courier,05:15,05:15,0,No Delay,JAS,7692.7,No
+SHP10571,2024-01-22,DXB,LHR,Valuables,19:30,19:30,0,No Delay,Menzies,54.3,No
+SHP10572,2024-05-19,DXB,BOM,Live Animals,12:30,18:30,363,Weather,Menzies,4702.0,Yes
+SHP10573,2024-01-24,DXB,ORD,Perishables,18:00,18:00,0,No Delay,dnata,3192.7,Yes
+SHP10574,2024-03-12,DXB,CGO,Pharmaceuticals,08:45,08:45,0,No Delay,WFS,4063.3,Yes
+SHP10575,2024-12-15,DXB,HKG,Perishables,22:45,22:45,0,No Delay,Menzies,5315.1,Yes
+SHP10576,2024-06-23,DXB,SIN,Valuables,10:00,15:00,321,Equipment Fault,Menzies,5189.2,Yes
+SHP10577,2024-11-07,DXB,FRA,Dangerous Goods,21:15,21:15,19,Late Arrival,WFS,7167.4,No
+SHP10578,2024-07-20,DXB,CDG,Courier,20:00,03:00,463,Late Arrival,dnata,7145.9,No
+SHP10579,2024-12-10,DXB,JFK,Dangerous Goods,12:30,19:30,431,Weight & Balance,Menzies,6721.2,Yes
+SHP10580,2024-03-04,DXB,FRA,Pharmaceuticals,14:00,15:00,113,Customs Delay,dnata,6079.4,Yes
+SHP10581,2024-04-08,DXB,JFK,Live Animals,20:30,20:30,0,No Delay,Menzies,1912.4,No
+SHP10582,2024-07-04,DXB,LHR,General Cargo,22:15,05:15,478,Weather,Menzies,7874.9,No
+SHP10583,2024-02-26,DXB,SYD,Courier,15:15,15:15,0,No Delay,Menzies,5295.7,Yes
+SHP10584,2024-02-03,DXB,BOM,Courier,04:30,04:30,48,Documentation Issue,Menzies,7054.0,Yes
+SHP10585,2024-04-08,DXB,DEL,Valuables,21:30,03:30,369,Late Arrival,WFS,7070.7,Yes
+SHP10586,2024-08-06,DXB,DEL,Live Animals,20:00,20:00,0,No Delay,Swissport,3488.8,No
+SHP10587,2024-05-20,DXB,JFK,Perishables,14:45,14:45,0,No Delay,WFS,6084.2,Yes
+SHP10588,2024-01-25,DXB,SYD,Perishables,17:45,17:45,0,No Delay,dnata,3165.3,Yes
+SHP10589,2024-02-11,DXB,BOM,Valuables,23:15,23:15,0,No Delay,JAS,7664.3,Yes
+SHP10590,2024-04-10,DXB,ORD,General Cargo,20:00,20:00,47,Weight & Balance,JAS,3484.0,Yes
+SHP10591,2024-10-30,DXB,DEL,General Cargo,08:15,08:15,0,No Delay,JAS,1945.0,Yes
+SHP10592,2024-01-28,DXB,HKG,Live Animals,07:00,07:00,0,No Delay,WFS,4975.6,Yes
+SHP10593,2024-11-16,DXB,FRA,General Cargo,02:00,02:00,0,No Delay,JAS,2540.6,Yes
+SHP10594,2024-03-06,DXB,LHR,Perishables,14:00,14:00,0,No Delay,WFS,5028.2,Yes
+SHP10595,2024-02-22,DXB,DEL,Dangerous Goods,09:45,09:45,41,Late Arrival,dnata,4957.6,No
+SHP10596,2024-04-29,DXB,BOM,Dangerous Goods,19:00,19:00,0,No Delay,JAS,3740.5,No
+SHP10597,2024-11-13,DXB,BOM,Dangerous Goods,21:00,02:00,348,Documentation Issue,WFS,2659.1,Yes
+SHP10598,2024-02-25,DXB,JFK,Courier,02:15,08:15,380,Late Arrival,Menzies,5117.0,Yes
+SHP10599,2024-06-30,DXB,NRT,Pharmaceuticals,14:15,19:15,332,Equipment Fault,Menzies,6386.4,Yes
+SHP10600,2024-03-06,DXB,SYD,Perishables,16:30,16:30,0,No Delay,WFS,7087.5,Yes
+SHP10601,2024-03-16,DXB,FRA,General Cargo,09:30,12:30,190,Weight & Balance,WFS,4712.2,Yes
+SHP10602,2024-01-30,DXB,SIN,Dangerous Goods,17:00,00:00,442,Equipment Fault,Swissport,1603.5,Yes
+SHP10603,2024-11-23,DXB,SIN,Valuables,10:15,10:15,0,No Delay,JAS,5573.5,No
+SHP10604,2024-11-03,DXB,CGO,Courier,18:30,23:30,311,Weight & Balance,Swissport,3378.6,Yes
+SHP10605,2024-02-23,DXB,FRA,Pharmaceuticals,01:45,01:45,0,No Delay,dnata,5128.2,Yes
+SHP10606,2024-08-26,DXB,BOM,Live Animals,23:30,03:30,261,Security Hold,JAS,1682.3,Yes
+SHP10607,2024-01-04,DXB,HKG,Pharmaceuticals,00:00,03:00,198,Late Arrival,Swissport,3551.2,Yes
+SHP10608,2024-01-23,DXB,LHR,Perishables,05:15,07:15,160,Security Hold,Menzies,2751.5,Yes
+SHP10609,2024-04-01,DXB,SIN,General Cargo,08:00,15:00,446,Late Arrival,Menzies,3062.4,Yes
+SHP10610,2024-06-22,DXB,SIN,Valuables,11:30,13:30,137,Weight & Balance,Menzies,7532.2,No
+SHP10611,2024-12-30,DXB,JFK,Pharmaceuticals,04:15,11:15,466,Documentation Issue,WFS,3056.7,Yes
+SHP10612,2024-06-11,DXB,BOM,Live Animals,07:00,12:00,340,Customs Delay,WFS,4719.2,Yes
+SHP10613,2024-03-17,DXB,HKG,Live Animals,08:15,13:15,337,Weather,WFS,7748.7,No
+SHP10614,2024-04-17,DXB,CGO,Pharmaceuticals,21:00,01:00,255,Documentation Issue,WFS,3135.5,Yes
+SHP10615,2024-09-12,DXB,CDG,Courier,22:30,00:30,179,Equipment Fault,JAS,5739.4,No
+SHP10616,2024-08-30,DXB,SYD,Pharmaceuticals,20:00,20:00,0,No Delay,Menzies,7164.3,No
+SHP10617,2024-04-30,DXB,NRT,Live Animals,12:15,15:15,232,Security Hold,Swissport,2073.5,Yes
+SHP10618,2024-03-09,DXB,JFK,Courier,11:15,15:15,280,Weight & Balance,dnata,3748.8,Yes
+SHP10619,2024-08-06,DXB,FRA,Perishables,11:45,14:45,224,Equipment Fault,Swissport,3089.8,Yes
+SHP10620,2024-08-14,DXB,SIN,Perishables,11:00,11:00,53,Weather,WFS,4126.7,Yes
+SHP10621,2024-05-21,DXB,SIN,Courier,11:00,11:00,51,Documentation Issue,Menzies,2703.4,Yes
+SHP10622,2024-05-08,DXB,SYD,Pharmaceuticals,21:30,21:30,0,No Delay,WFS,7984.1,Yes
+SHP10623,2024-01-05,DXB,SYD,Live Animals,12:45,15:45,192,Weather,WFS,6074.6,Yes
+SHP10624,2024-08-29,DXB,DEL,Pharmaceuticals,04:45,04:45,0,No Delay,Menzies,5800.5,Yes
+SHP10625,2024-08-30,DXB,SIN,Valuables,17:45,17:45,0,No Delay,JAS,2758.2,Yes
+SHP10626,2024-06-09,DXB,SIN,Dangerous Goods,13:15,19:15,372,Customs Delay,JAS,6830.9,Yes
+SHP10627,2024-07-10,DXB,ORD,Valuables,04:30,04:30,0,No Delay,dnata,4023.4,Yes
+SHP10628,2024-06-22,DXB,SIN,Perishables,12:30,18:30,366,Customs Delay,WFS,234.8,Yes
+SHP10629,2024-03-12,DXB,ORD,Dangerous Goods,10:45,10:45,0,No Delay,Menzies,7592.1,Yes
+SHP10630,2024-09-30,DXB,NRT,Valuables,10:45,11:45,70,Security Hold,Swissport,791.3,Yes
+SHP10631,2024-12-11,DXB,CDG,General Cargo,22:45,05:45,438,Documentation Issue,Menzies,1632.0,No
+SHP10632,2024-05-25,DXB,SIN,Dangerous Goods,16:00,21:00,352,Security Hold,dnata,2980.8,Yes
+SHP10633,2024-03-28,DXB,HKG,Pharmaceuticals,13:45,13:45,0,No Delay,dnata,1076.6,No
+SHP10634,2024-09-01,DXB,CGO,Live Animals,06:15,13:15,477,Late Arrival,Menzies,2512.6,No
+SHP10635,2024-03-22,DXB,BOM,Courier,09:15,09:15,0,No Delay,JAS,2239.8,Yes
+SHP10636,2024-03-14,DXB,FRA,Courier,19:15,22:15,219,Late Arrival,Swissport,7286.9,No
+SHP10637,2024-08-23,DXB,FRA,Perishables,23:00,23:00,0,No Delay,JAS,2806.9,Yes
+SHP10638,2024-07-19,DXB,BOM,Pharmaceuticals,05:45,05:45,0,No Delay,Menzies,7204.7,No
+SHP10639,2024-08-22,DXB,NRT,Dangerous Goods,05:00,05:00,0,No Delay,dnata,1955.6,Yes
+SHP10640,2024-05-20,DXB,DEL,Valuables,21:00,21:00,0,No Delay,Menzies,7274.5,No
+SHP10641,2024-10-10,DXB,JFK,Courier,02:00,02:00,0,No Delay,Swissport,3310.3,Yes
+SHP10642,2024-05-09,DXB,SIN,Valuables,00:00,04:00,251,Equipment Fault,JAS,3080.2,No
+SHP10643,2024-04-09,DXB,NRT,Perishables,03:15,05:15,143,Late Arrival,JAS,3903.8,Yes
+SHP10644,2024-02-12,DXB,CDG,Pharmaceuticals,22:45,22:45,0,No Delay,JAS,6572.4,Yes
+SHP10645,2024-03-28,DXB,LHR,General Cargo,05:30,05:30,0,No Delay,WFS,5944.5,Yes
+SHP10646,2024-02-09,DXB,DEL,Pharmaceuticals,21:30,21:30,0,No Delay,JAS,2896.8,Yes
+SHP10647,2024-01-18,DXB,DEL,Live Animals,14:00,14:00,0,No Delay,WFS,5146.0,Yes
+SHP10648,2024-07-18,DXB,CGO,General Cargo,19:00,19:00,41,Weight & Balance,JAS,6148.6,Yes
+SHP10649,2024-07-10,DXB,SIN,General Cargo,13:00,13:00,23,Security Hold,Swissport,6573.2,Yes
+SHP10650,2024-04-22,DXB,JFK,Valuables,21:15,21:15,0,No Delay,Menzies,399.9,Yes
+SHP10651,2024-06-16,DXB,HKG,Courier,06:15,06:15,0,No Delay,JAS,7514.4,Yes
+SHP10652,2024-04-28,DXB,SIN,Dangerous Goods,05:00,08:00,180,Documentation Issue,Swissport,145.3,Yes
+SHP10653,2024-08-22,DXB,SIN,General Cargo,08:30,15:30,432,Late Arrival,dnata,7089.4,No
+SHP10654,2024-06-03,DXB,BOM,Perishables,22:15,23:15,67,Equipment Fault,dnata,4818.9,No
+SHP10655,2024-12-13,DXB,CGO,Live Animals,20:30,21:30,104,Documentation Issue,JAS,586.7,Yes
+SHP10656,2024-11-07,DXB,BOM,Courier,20:15,00:15,276,Customs Delay,WFS,5651.8,Yes
+SHP10657,2024-04-29,DXB,LHR,Pharmaceuticals,03:30,03:30,0,No Delay,JAS,6070.1,Yes
+SHP10658,2024-01-31,DXB,ORD,Dangerous Goods,06:15,08:15,166,Customs Delay,Menzies,5154.2,Yes
+SHP10659,2024-11-02,DXB,FRA,Perishables,10:15,10:15,0,No Delay,Swissport,5166.6,Yes
+SHP10660,2024-09-23,DXB,NRT,Pharmaceuticals,09:00,09:00,0,No Delay,Swissport,2774.7,Yes
+SHP10661,2024-10-03,DXB,LHR,Live Animals,21:15,21:15,0,No Delay,Menzies,4884.1,No
+SHP10662,2024-09-23,DXB,HKG,Live Animals,00:00,05:00,337,Security Hold,JAS,606.4,Yes
+SHP10663,2024-01-27,DXB,DEL,General Cargo,06:15,06:15,0,No Delay,Menzies,4761.4,Yes
+SHP10664,2024-04-30,DXB,CDG,Pharmaceuticals,14:30,20:30,386,Late Arrival,Menzies,1997.2,Yes
+SHP10665,2024-11-06,DXB,SIN,Perishables,14:15,19:15,310,Weight & Balance,JAS,686.1,Yes
+SHP10666,2024-07-22,DXB,NRT,Live Animals,13:45,17:45,240,Documentation Issue,Menzies,6565.9,No
+SHP10667,2024-01-11,DXB,NRT,Courier,09:15,09:15,57,Customs Delay,Menzies,2095.5,No
+SHP10668,2024-06-05,DXB,FRA,General Cargo,19:45,00:45,302,Weather,Swissport,1136.4,No
+SHP10669,2024-04-10,DXB,ORD,Live Animals,00:00,00:00,0,No Delay,WFS,5856.4,Yes
+SHP10670,2024-09-08,DXB,NRT,Dangerous Goods,12:30,12:30,0,No Delay,JAS,2497.1,Yes
+SHP10671,2024-07-28,DXB,LHR,Courier,03:45,03:45,0,No Delay,Menzies,1594.1,No
+SHP10672,2024-05-10,DXB,CGO,Valuables,15:30,21:30,378,Weight & Balance,dnata,5224.7,No
+SHP10673,2024-05-06,DXB,SIN,Valuables,11:00,18:00,431,Equipment Fault,Menzies,2127.6,No
+SHP10674,2024-12-14,DXB,ORD,General Cargo,18:15,23:15,323,Weather,dnata,6179.2,No
+SHP10675,2024-07-22,DXB,CGO,Dangerous Goods,02:15,02:15,0,No Delay,Menzies,6646.5,Yes
+SHP10676,2024-12-20,DXB,SYD,Courier,21:45,01:45,287,Equipment Fault,Swissport,5884.8,Yes
+SHP10677,2024-02-25,DXB,DEL,Perishables,11:15,11:15,0,No Delay,Menzies,7443.6,No
+SHP10678,2024-12-23,DXB,SYD,General Cargo,15:00,16:00,101,Late Arrival,dnata,6201.3,No
+SHP10679,2024-09-25,DXB,NRT,Pharmaceuticals,23:45,23:45,0,No Delay,Menzies,3028.5,Yes
+SHP10680,2024-04-11,DXB,FRA,Pharmaceuticals,14:15,15:15,71,Security Hold,Menzies,518.9,Yes
+SHP10681,2024-04-08,DXB,SYD,Valuables,13:45,13:45,0,No Delay,WFS,918.1,Yes
+SHP10682,2024-02-10,DXB,SYD,Perishables,08:00,09:00,78,Documentation Issue,dnata,4705.9,No
+SHP10683,2024-09-05,DXB,DEL,Perishables,00:00,00:00,0,No Delay,dnata,5339.3,Yes
+SHP10684,2024-02-19,DXB,SIN,Courier,00:45,00:45,0,No Delay,WFS,7895.8,Yes
+SHP10685,2024-09-05,DXB,FRA,Perishables,19:45,19:45,0,No Delay,Swissport,5470.8,Yes
+SHP10686,2024-06-10,DXB,SIN,Dangerous Goods,21:45,21:45,0,No Delay,WFS,505.1,Yes
+SHP10687,2024-06-18,DXB,JFK,Valuables,22:45,05:45,460,Late Arrival,Menzies,254.2,Yes
+SHP10688,2024-09-28,DXB,SYD,Dangerous Goods,07:30,07:30,0,No Delay,WFS,5505.2,No
+SHP10689,2024-09-20,DXB,NRT,General Cargo,00:30,00:30,0,No Delay,Swissport,6993.8,Yes
+SHP10690,2024-12-13,DXB,FRA,Perishables,12:00,16:00,263,Security Hold,JAS,7515.7,No
+SHP10691,2024-12-03,DXB,CGO,Perishables,23:45,23:45,0,No Delay,WFS,1600.9,Yes
+SHP10692,2024-09-23,DXB,BOM,Pharmaceuticals,22:00,22:00,0,No Delay,JAS,6384.7,Yes
+SHP10693,2024-12-10,DXB,CDG,Dangerous Goods,14:15,14:15,0,No Delay,dnata,3883.2,Yes
+SHP10694,2024-05-04,DXB,SIN,General Cargo,22:00,03:00,352,Documentation Issue,JAS,7947.2,Yes
+SHP10695,2024-03-23,DXB,HKG,Valuables,08:15,08:15,0,No Delay,Swissport,5344.2,Yes
+SHP10696,2024-12-06,DXB,ORD,General Cargo,20:45,20:45,0,No Delay,Swissport,6981.9,Yes
+SHP10697,2024-11-25,DXB,HKG,Valuables,23:45,05:45,382,Customs Delay,WFS,7731.7,No
+SHP10698,2024-04-29,DXB,SIN,General Cargo,02:00,04:00,163,Weather,Swissport,5937.6,Yes
+SHP10699,2024-02-29,DXB,BOM,Courier,10:45,17:45,451,Customs Delay,dnata,2520.9,Yes
+SHP10700,2024-07-17,DXB,NRT,Courier,21:15,00:15,201,Weight & Balance,WFS,4746.7,Yes
+SHP10701,2024-07-21,DXB,LHR,Pharmaceuticals,14:30,14:30,0,No Delay,Swissport,6705.9,No
+SHP10702,2024-12-14,DXB,FRA,Courier,04:00,06:00,160,Documentation Issue,Swissport,2505.7,Yes
+SHP10703,2024-05-20,DXB,CGO,Dangerous Goods,20:15,20:15,0,No Delay,Swissport,5647.9,No
+SHP10704,2024-01-31,DXB,HKG,Valuables,06:15,12:15,381,Documentation Issue,dnata,7389.1,Yes
+SHP10705,2024-09-06,DXB,CGO,General Cargo,21:15,04:15,432,Customs Delay,WFS,3168.7,No
+SHP10706,2024-12-13,DXB,FRA,General Cargo,12:45,12:45,0,No Delay,WFS,5827.7,Yes
+SHP10707,2024-12-22,DXB,SIN,General Cargo,17:45,17:45,0,No Delay,Menzies,2621.2,Yes
+SHP10708,2024-12-29,DXB,SYD,Dangerous Goods,18:15,19:15,98,Equipment Fault,JAS,2364.1,Yes
+SHP10709,2024-04-17,DXB,SIN,Perishables,06:00,06:00,0,No Delay,WFS,860.5,Yes
+SHP10710,2024-07-11,DXB,NRT,General Cargo,05:00,05:00,0,No Delay,Swissport,7794.6,Yes
+SHP10711,2024-01-27,DXB,JFK,Courier,20:30,20:30,0,No Delay,JAS,7759.3,No
+SHP10712,2024-05-05,DXB,LHR,Valuables,15:30,18:30,218,Documentation Issue,WFS,7638.7,No
+SHP10713,2024-12-20,DXB,DEL,Perishables,14:45,14:45,0,No Delay,JAS,2970.2,Yes
+SHP10714,2024-02-29,DXB,JFK,General Cargo,21:15,02:15,343,Documentation Issue,WFS,4605.2,No
+SHP10715,2024-05-20,DXB,CGO,Dangerous Goods,18:15,18:15,0,No Delay,JAS,7999.6,No
+SHP10716,2024-06-01,DXB,BOM,Dangerous Goods,02:15,05:15,181,Documentation Issue,dnata,3180.7,No
+SHP10717,2024-02-02,DXB,CDG,Live Animals,17:00,17:00,0,No Delay,Menzies,7727.2,Yes
+SHP10718,2024-04-02,DXB,BOM,Live Animals,00:45,00:45,0,No Delay,Swissport,1028.2,Yes
+SHP10719,2024-10-21,DXB,SIN,Live Animals,02:30,02:30,0,No Delay,dnata,722.7,Yes
+SHP10720,2024-09-16,DXB,SYD,Valuables,05:45,09:45,293,Weight & Balance,dnata,2024.3,Yes
+SHP10721,2024-09-22,DXB,SYD,Courier,14:15,14:15,0,No Delay,JAS,5576.1,Yes
+SHP10722,2024-11-06,DXB,CDG,Pharmaceuticals,03:00,09:00,367,Equipment Fault,dnata,1545.2,Yes
+SHP10723,2024-04-20,DXB,ORD,Perishables,06:30,06:30,0,No Delay,Menzies,5846.4,No
+SHP10724,2024-02-08,DXB,CDG,Dangerous Goods,20:15,23:15,210,Weather,JAS,711.9,Yes
+SHP10725,2024-12-12,DXB,NRT,General Cargo,04:15,04:15,0,No Delay,Swissport,7963.1,Yes
+SHP10726,2024-07-09,DXB,BOM,Dangerous Goods,16:15,16:15,0,No Delay,Menzies,2565.1,No
+SHP10727,2024-07-13,DXB,LHR,Perishables,07:00,07:00,0,No Delay,dnata,4275.2,No
+SHP10728,2024-02-03,DXB,HKG,Live Animals,11:30,11:30,0,No Delay,Swissport,1213.3,Yes
+SHP10729,2024-05-20,DXB,LHR,Live Animals,12:00,14:00,128,Documentation Issue,dnata,1447.1,Yes
+SHP10730,2024-10-28,DXB,FRA,Courier,22:30,01:30,193,Documentation Issue,Swissport,4879.4,Yes
+SHP10731,2024-03-28,DXB,HKG,Perishables,12:15,12:15,0,No Delay,WFS,4435.8,No
+SHP10732,2024-09-01,DXB,BOM,Valuables,21:15,21:15,19,Documentation Issue,Menzies,1184.2,Yes
+SHP10733,2024-01-28,DXB,CGO,Valuables,11:15,11:15,0,No Delay,WFS,3375.0,No
+SHP10734,2024-04-03,DXB,FRA,Perishables,14:30,14:30,0,No Delay,JAS,4188.7,Yes
+SHP10735,2024-06-05,DXB,DEL,Live Animals,09:45,09:45,0,No Delay,Swissport,6769.7,Yes
+SHP10736,2024-02-09,DXB,CGO,General Cargo,05:00,06:00,62,Security Hold,Swissport,4455.6,No
+SHP10737,2024-01-06,DXB,NRT,Dangerous Goods,23:15,23:15,0,No Delay,JAS,4144.3,Yes
+SHP10738,2024-07-26,DXB,LHR,Valuables,23:00,23:00,0,No Delay,JAS,5635.6,Yes
+SHP10739,2024-05-05,DXB,CGO,Courier,16:00,16:00,0,No Delay,JAS,7718.9,Yes
+SHP10740,2024-03-30,DXB,JFK,General Cargo,16:30,17:30,83,Customs Delay,JAS,3989.3,Yes
+SHP10741,2024-07-10,DXB,JFK,Perishables,07:00,13:00,362,Weight & Balance,Swissport,3890.8,Yes
+SHP10742,2024-04-19,DXB,LHR,Pharmaceuticals,18:45,18:45,0,No Delay,Swissport,7436.4,Yes
+SHP10743,2024-08-25,DXB,BOM,General Cargo,01:30,01:30,0,No Delay,WFS,3709.8,Yes
+SHP10744,2024-06-30,DXB,JFK,Dangerous Goods,23:15,06:15,470,Late Arrival,Swissport,120.5,No
+SHP10745,2024-09-08,DXB,SIN,General Cargo,04:45,08:45,278,Documentation Issue,JAS,104.9,Yes
+SHP10746,2024-04-25,DXB,FRA,Pharmaceuticals,11:45,13:45,168,Customs Delay,WFS,6501.8,Yes
+SHP10747,2024-08-12,DXB,DEL,Perishables,05:15,05:15,0,No Delay,JAS,96.2,Yes
+SHP10748,2024-02-26,DXB,SIN,Valuables,12:45,13:45,83,Weather,Swissport,7212.9,Yes
+SHP10749,2024-12-07,DXB,SIN,General Cargo,21:30,21:30,0,No Delay,JAS,3938.1,No
+SHP10750,2024-12-15,DXB,CGO,Pharmaceuticals,12:45,18:45,399,Documentation Issue,dnata,7663.5,Yes
+SHP10751,2024-03-05,DXB,ORD,General Cargo,21:15,21:15,21,Weight & Balance,Swissport,3465.8,Yes
+SHP10752,2024-08-10,DXB,FRA,Pharmaceuticals,02:45,06:45,263,Weather,WFS,1262.3,Yes
+SHP10753,2024-05-07,DXB,SYD,Valuables,08:15,08:15,0,No Delay,JAS,1627.4,Yes
+SHP10754,2024-12-24,DXB,CGO,Pharmaceuticals,06:15,07:15,107,Equipment Fault,dnata,1101.8,Yes
+SHP10755,2024-05-20,DXB,SIN,Courier,13:00,13:00,0,No Delay,Menzies,772.9,Yes
+SHP10756,2024-07-13,DXB,NRT,Pharmaceuticals,22:15,22:15,0,No Delay,Swissport,3437.3,Yes
+SHP10757,2024-09-18,DXB,NRT,Perishables,09:00,09:00,0,No Delay,Swissport,2280.4,Yes
+SHP10758,2024-12-30,DXB,NRT,General Cargo,01:15,08:15,473,Weather,dnata,464.4,Yes
+SHP10759,2024-04-18,DXB,SYD,Dangerous Goods,19:00,03:00,480,Equipment Fault,Menzies,2055.5,No
+SHP10760,2024-07-05,DXB,HKG,Valuables,21:00,22:00,64,Weight & Balance,WFS,6175.2,Yes
+SHP10761,2024-06-18,DXB,HKG,Pharmaceuticals,11:30,11:30,0,No Delay,Swissport,1719.8,No
+SHP10762,2024-02-14,DXB,JFK,General Cargo,19:00,01:00,395,Documentation Issue,WFS,7748.2,Yes
+SHP10763,2024-04-08,DXB,CGO,Perishables,02:30,03:30,65,Customs Delay,JAS,7917.7,Yes
+SHP10764,2024-09-30,DXB,CGO,Courier,06:45,07:45,80,Documentation Issue,Swissport,7138.1,Yes
+SHP10765,2024-07-06,DXB,FRA,General Cargo,03:45,03:45,0,No Delay,JAS,3381.1,Yes
+SHP10766,2024-03-26,DXB,BOM,Courier,09:00,10:00,81,Weather,dnata,6365.4,Yes
+SHP10767,2024-07-22,DXB,FRA,Pharmaceuticals,16:00,16:00,0,No Delay,JAS,6018.3,No
+SHP10768,2024-10-14,DXB,NRT,General Cargo,06:15,08:15,154,Customs Delay,Menzies,4596.6,Yes
+SHP10769,2024-09-19,DXB,FRA,Perishables,16:30,22:30,383,Equipment Fault,Menzies,2406.1,Yes
+SHP10770,2024-10-09,DXB,JFK,Perishables,17:15,17:15,38,Documentation Issue,dnata,5134.9,Yes
+SHP10771,2024-03-09,DXB,SYD,Live Animals,01:15,01:15,0,No Delay,Menzies,4300.0,Yes
+SHP10772,2024-11-28,DXB,HKG,General Cargo,11:30,11:30,0,No Delay,WFS,2149.1,Yes
+SHP10773,2024-07-28,DXB,BOM,Live Animals,20:00,20:00,44,Weight & Balance,Swissport,1793.3,Yes
+SHP10774,2024-03-31,DXB,SYD,Valuables,17:00,17:00,0,No Delay,JAS,7568.0,Yes
+SHP10775,2024-11-16,DXB,DEL,Pharmaceuticals,06:45,06:45,0,No Delay,Swissport,2186.9,No
+SHP10776,2024-03-20,DXB,FRA,Pharmaceuticals,13:30,19:30,386,Security Hold,JAS,794.8,Yes
+SHP10777,2024-08-23,DXB,ORD,Courier,05:15,05:15,0,No Delay,JAS,7549.7,Yes
+SHP10778,2024-11-27,DXB,SYD,Valuables,05:45,06:45,98,Late Arrival,WFS,1543.4,Yes
+SHP10779,2024-02-06,DXB,NRT,General Cargo,20:45,04:45,480,Weather,WFS,1141.5,Yes
+SHP10780,2024-11-04,DXB,JFK,Live Animals,03:00,03:00,25,Customs Delay,dnata,1100.8,Yes
+SHP10781,2024-05-17,DXB,ORD,Live Animals,19:00,19:00,0,No Delay,dnata,7663.1,Yes
+SHP10782,2024-10-04,DXB,CGO,Pharmaceuticals,22:00,22:00,0,No Delay,Menzies,3869.4,No
+SHP10783,2024-03-24,DXB,SYD,Courier,07:00,08:00,94,Weight & Balance,Swissport,5038.5,Yes
+SHP10784,2024-01-11,DXB,LHR,Pharmaceuticals,03:45,05:45,166,Documentation Issue,dnata,7301.7,Yes
+SHP10785,2024-04-26,DXB,NRT,Pharmaceuticals,20:30,23:30,195,Customs Delay,JAS,5509.8,Yes
+SHP10786,2024-09-08,DXB,ORD,Perishables,07:00,07:00,0,No Delay,Swissport,656.5,Yes
+SHP10787,2024-03-01,DXB,HKG,Courier,02:00,02:00,0,No Delay,Menzies,1465.6,Yes
+SHP10788,2024-11-03,DXB,ORD,Courier,04:30,04:30,0,No Delay,Swissport,2819.7,Yes
+SHP10789,2024-05-18,DXB,FRA,Live Animals,08:00,08:00,0,No Delay,dnata,6900.6,Yes
+SHP10790,2024-12-01,DXB,ORD,Live Animals,14:45,17:45,214,Weight & Balance,dnata,949.7,No
+SHP10791,2024-05-22,DXB,ORD,Perishables,05:45,06:45,80,Documentation Issue,Swissport,3978.9,No
+SHP10792,2024-12-21,DXB,NRT,Pharmaceuticals,20:30,20:30,0,No Delay,Menzies,3096.3,No
+SHP10793,2024-10-02,DXB,CDG,General Cargo,07:45,11:45,289,Equipment Fault,WFS,5733.6,Yes
+SHP10794,2024-12-25,DXB,JFK,Perishables,06:00,06:00,16,Security Hold,WFS,3817.7,Yes
+SHP10795,2024-02-26,DXB,LHR,Perishables,11:15,11:15,0,No Delay,JAS,1195.9,No
+SHP10796,2024-05-04,DXB,SIN,General Cargo,01:15,01:15,0,No Delay,Menzies,3050.8,Yes
+SHP10797,2024-12-22,DXB,NRT,Dangerous Goods,03:00,09:00,374,Customs Delay,WFS,6970.3,Yes
+SHP10798,2024-03-16,DXB,HKG,Courier,02:00,04:00,140,Documentation Issue,JAS,1240.3,Yes
+SHP10799,2024-08-28,DXB,CGO,Dangerous Goods,22:30,02:30,285,Documentation Issue,JAS,5794.3,No
